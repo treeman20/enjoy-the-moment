@@ -48,7 +48,7 @@ content:
         options:
           path: public/media/works
           multiple:
-            max: 40
+            max: 150
       - name: captions
         label: 圖說（每行一則，依序對應上面的影像）
         type: text
