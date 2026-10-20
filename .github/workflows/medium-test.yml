@@ -1,0 +1,16 @@
+name: medium-test
+on:
+  push:
+    branches: [medium-test]
+permissions:
+  contents: write
+jobs:
+  t:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          curl -sS -A "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0 Safari/537.36" -o t.json -w "%{http_code}\n" "https://medium.com/p/feb3933c50d7?format=json" || true
+          head -c 300 t.json; echo
+          git config user.name bot; git config user.email bot@x
+          git add t.json; git commit -m t; git push
