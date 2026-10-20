@@ -3,23 +3,23 @@ title: "小，但完整且多樣的策展"
 date: 2019-03-04
 category: 閱讀脈絡
 summary: "2017日本東京虎屋有關『雨』的展覽"
-cover: https://miro.medium.com/v2/resize:fit:1600/1*hn_7JUnL9LPiPHgiKgF4pA.jpeg
+cover: /media/works/2019-03-04-toraya-rain-exhibition/01.webp
 draft: false
 gallery:
-  - https://miro.medium.com/v2/resize:fit:1600/1*hn_7JUnL9LPiPHgiKgF4pA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*SWzgqRiTSTlF6Figj3susA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*WblknsqtW86VBQZc0HS4mA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*t_O0BvJdKO593JJwWCE_8Q.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*X12PAOG_8tiqwgiSn1T-Qw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*wj0T0GNqem4aj9YNyjLatg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*V31maeXj6avgS07y7mPYcQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*-C-buMKNZtvjl_mu92MNkw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*skxGaCvpXrmlhB-GytrxIw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*Ch_elH6U7bbNXuFDmpm6Kw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*OVKPYyKsCPgLhs5PoLhKmA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*kcN4ck_9aG5DJzSqGeZv0w.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*b9UVt0l-Eb_iF0p4cuQ03A.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*i2MlFBaH4NmZtKOD_jqQhQ.jpeg
+  - /media/works/2019-03-04-toraya-rain-exhibition/01.webp
+  - /media/works/2019-03-04-toraya-rain-exhibition/02.webp
+  - /media/works/2019-03-04-toraya-rain-exhibition/03.webp
+  - /media/works/2019-03-04-toraya-rain-exhibition/04.webp
+  - /media/works/2019-03-04-toraya-rain-exhibition/05.webp
+  - /media/works/2019-03-04-toraya-rain-exhibition/06.webp
+  - /media/works/2019-03-04-toraya-rain-exhibition/07.webp
+  - /media/works/2019-03-04-toraya-rain-exhibition/08.webp
+  - /media/works/2019-03-04-toraya-rain-exhibition/09.webp
+  - /media/works/2019-03-04-toraya-rain-exhibition/10.webp
+  - /media/works/2019-03-04-toraya-rain-exhibition/11.webp
+  - /media/works/2019-03-04-toraya-rain-exhibition/12.webp
+  - /media/works/2019-03-04-toraya-rain-exhibition/13.webp
+  - /media/works/2019-03-04-toraya-rain-exhibition/14.webp
 ---
 文創商品，必須基於一個文化基礎，也就是一個有在運行的一種生活方式，否則他就只能是一個好看但不知用在哪裡的東西。  
 因此，好看的東西沒辦法用在生活上，他就不能夠被常常消費。  

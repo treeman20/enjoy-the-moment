@@ -3,22 +3,22 @@ title: "透過設計， 展現影像價值…"
 date: 2019-03-09
 category: 靈光浮塵
 summary: "2017年近專攝影課教學成果"
-cover: https://miro.medium.com/v2/resize:fit:1600/1*pvOMZJ_XqEBbEiU62zWiOA.png
+cover: /media/works/2019-03-09-design-and-image-value/01.webp
 draft: false
 gallery:
-  - https://miro.medium.com/v2/resize:fit:1600/1*pvOMZJ_XqEBbEiU62zWiOA.png
-  - https://miro.medium.com/v2/resize:fit:1600/0*3oXmYfEvOLODI3Ue
-  - https://miro.medium.com/v2/resize:fit:1600/0*iVSN33cyWkQUVVVy
-  - https://miro.medium.com/v2/resize:fit:1600/0*GzwPhmvTsd2l3qXC
-  - https://miro.medium.com/v2/resize:fit:1600/0*rNaWlWOCxrl_7DfZ
-  - https://miro.medium.com/v2/resize:fit:1600/0*dIS0Hq4XqELTII74
-  - https://miro.medium.com/v2/resize:fit:1600/0*6adjBmMJCNRKEh-K
-  - https://miro.medium.com/v2/resize:fit:1600/0*tTtYReiD3ogVSwgq
-  - https://miro.medium.com/v2/resize:fit:1600/0*vtfKlSBDxGjy4NTA
-  - https://miro.medium.com/v2/resize:fit:1600/0*oMRQpZbOteQyyaCv
-  - https://miro.medium.com/v2/resize:fit:1600/0*anCKcZiwlBdOHw3-
-  - https://miro.medium.com/v2/resize:fit:1600/0*0XbPc4aKw0XzgfY9
-  - https://miro.medium.com/v2/resize:fit:1600/0*i1zI04p8Reamprph
+  - /media/works/2019-03-09-design-and-image-value/01.webp
+  - /media/works/2019-03-09-design-and-image-value/02.webp
+  - /media/works/2019-03-09-design-and-image-value/03.webp
+  - /media/works/2019-03-09-design-and-image-value/04.webp
+  - /media/works/2019-03-09-design-and-image-value/05.webp
+  - /media/works/2019-03-09-design-and-image-value/06.webp
+  - /media/works/2019-03-09-design-and-image-value/07.webp
+  - /media/works/2019-03-09-design-and-image-value/08.webp
+  - /media/works/2019-03-09-design-and-image-value/09.webp
+  - /media/works/2019-03-09-design-and-image-value/10.webp
+  - /media/works/2019-03-09-design-and-image-value/11.webp
+  - /media/works/2019-03-09-design-and-image-value/12.webp
+  - /media/works/2019-03-09-design-and-image-value/13.webp
 ---
 在進修專科學校的攝影課，仍像以前一樣，我們是以分組方式進行攝影表現的訓練，讓大家透過合作的力量，可以準備好攝影素材，再用討論的方式進行影像棚拍。
 

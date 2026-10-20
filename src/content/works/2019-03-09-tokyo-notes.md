@@ -3,13 +3,13 @@ title: "東京遊『零星感受』…"
 date: 2019-03-09
 category: 靈光浮塵
 summary: "脫離自身熟悉環境，人的思維會變得更敏銳。"
-cover: https://miro.medium.com/v2/resize:fit:1600/1*pi7nJ64eFapuA6h2h6BhvA.jpeg
+cover: /media/works/2019-03-09-tokyo-notes/01.webp
 draft: false
 gallery:
-  - https://miro.medium.com/v2/resize:fit:1600/1*pi7nJ64eFapuA6h2h6BhvA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*EUX-uBbT9LRi-DWGht1HCg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*2RPZytLeGk2Myu9qBTNX1g.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*dYf4NWGKnUMtPpWf0cM5rA.jpeg
+  - /media/works/2019-03-09-tokyo-notes/01.webp
+  - /media/works/2019-03-09-tokyo-notes/02.webp
+  - /media/works/2019-03-09-tokyo-notes/03.webp
+  - /media/works/2019-03-09-tokyo-notes/04.webp
 ---
 ### 「染。織」
 

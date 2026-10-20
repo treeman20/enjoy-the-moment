@@ -3,10 +3,10 @@ title: "攝影的真善美"
 date: 2020-11-07
 category: 靈光浮塵
 summary: "為南投美展寫的一段評審感言"
-cover: https://miro.medium.com/v2/resize:fit:1600/1*V6u06bDW5M6niCL4fwC68w.jpeg
+cover: /media/works/2020-11-07-truth-goodness-beauty/01.webp
 draft: false
 gallery:
-  - https://miro.medium.com/v2/resize:fit:1600/1*V6u06bDW5M6niCL4fwC68w.jpeg
+  - /media/works/2020-11-07-truth-goodness-beauty/01.webp
 ---
 2014年的一次社區營造影像培力營課程，當學員在整理影相時，我開始構思用更簡單的說法，讓這些非專業人員瞭解攝影價值的幾個概念：如何運用影像讓影像有作用，怎麼拍？怎麼挑選與編輯？讓影像好看又有作用。
 

@@ -3,25 +3,25 @@ title: "2013年十大好米與農民"
 date: 2019-04-04
 category: 水積成川
 summary: "農夫除了他的田地？還有什麼可以成為影像元素？"
-cover: https://miro.medium.com/v2/resize:fit:1600/1*LXb-ErDrhO4GAdiRS9qS7Q.jpeg
+cover: /media/works/2019-04-04-top-ten-rice-farmers-2013/01.webp
 draft: false
 gallery:
-  - https://miro.medium.com/v2/resize:fit:1600/1*LXb-ErDrhO4GAdiRS9qS7Q.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*X8sSdxf9Ivq6aJFxHYXRwQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*pdBLWehYmGXE_-CJi426bg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*jKBhjiB5_xiVS8pMmtrYsw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*oJjatCnoae4--rPBTBBCWg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*cIJQqRNMbKYmgM_Hush5Ug.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*FMjhOvUcfOdhmwhG6TwPGg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*iSJi1nzd62736fdl1xcSPw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*sxYe_XITQY4F9JG_qOM2WA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*PtuUEBeO4gUwzNNstr0ukw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*HSkQLHbuqxWS3FwuVQ8Q-w.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*t50MwuW22YNqF0Z4IM8Akg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*wNT7Wqqu9E-QsX_gUBge0w.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*RdHCMwVUWX8NlvYvWV3xFQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*T8S_TfU-wGfhRDRddJu9iQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*GYBoFZ2Q2PG6kRjDryk4yw.jpeg
+  - /media/works/2019-04-04-top-ten-rice-farmers-2013/01.webp
+  - /media/works/2019-04-04-top-ten-rice-farmers-2013/02.webp
+  - /media/works/2019-04-04-top-ten-rice-farmers-2013/03.webp
+  - /media/works/2019-04-04-top-ten-rice-farmers-2013/04.webp
+  - /media/works/2019-04-04-top-ten-rice-farmers-2013/05.webp
+  - /media/works/2019-04-04-top-ten-rice-farmers-2013/06.webp
+  - /media/works/2019-04-04-top-ten-rice-farmers-2013/07.webp
+  - /media/works/2019-04-04-top-ten-rice-farmers-2013/08.webp
+  - /media/works/2019-04-04-top-ten-rice-farmers-2013/09.webp
+  - /media/works/2019-04-04-top-ten-rice-farmers-2013/10.webp
+  - /media/works/2019-04-04-top-ten-rice-farmers-2013/11.webp
+  - /media/works/2019-04-04-top-ten-rice-farmers-2013/12.webp
+  - /media/works/2019-04-04-top-ten-rice-farmers-2013/13.webp
+  - /media/works/2019-04-04-top-ten-rice-farmers-2013/14.webp
+  - /media/works/2019-04-04-top-ten-rice-farmers-2013/15.webp
+  - /media/works/2019-04-04-top-ten-rice-farmers-2013/16.webp
 captions: "桃園的呂理樹與其弟弟在田裡的照片，應該是最符合心目中的農夫模樣！"
 ---
 這次的任務不算是困難的紀錄，可以在一個短時間遊走四分之三個台灣，拜訪這麼多農夫，看看他種出好米的農田所在，也是蠻開心的。

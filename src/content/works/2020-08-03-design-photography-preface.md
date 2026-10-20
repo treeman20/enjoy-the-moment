@@ -3,14 +3,14 @@ title: "2000年「設計攝影」前言"
 date: 2020-08-03
 category: 閱讀脈絡
 summary: "一本試著豐富設計系攝影教學內容的出版物"
-cover: https://miro.medium.com/v2/resize:fit:1600/1*FMp05FiAnQvjcuywr0AOHQ.jpeg
+cover: /media/works/2020-08-03-design-photography-preface/01.webp
 draft: false
 gallery:
-  - https://miro.medium.com/v2/resize:fit:1600/1*FMp05FiAnQvjcuywr0AOHQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*wIkV2U2-FpMuNtrqtppe5A.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*GSv9Uv4w9IZkg5Q0S-eCQw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*Yp_1tCNgQI0QJTNQ1jux5A.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*WaSOgyq_X2eg0e1QQqZ6Zw.jpeg
+  - /media/works/2020-08-03-design-photography-preface/01.webp
+  - /media/works/2020-08-03-design-photography-preface/02.webp
+  - /media/works/2020-08-03-design-photography-preface/03.webp
+  - /media/works/2020-08-03-design-photography-preface/04.webp
+  - /media/works/2020-08-03-design-photography-preface/05.webp
 captions: "\n\n\n\n陳舊的歷史照片有雙色調的印象"
 ---
 有關封面設計的意義  

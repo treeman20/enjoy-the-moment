@@ -3,21 +3,21 @@ title: "就是那道光…"
 date: 2019-04-04
 category: 心靈容器
 summary: "如果沒有那個一下午的陰天，怎能特別感受陽光乍現的珍貴。"
-cover: https://miro.medium.com/v2/resize:fit:1600/1*Y_gOWpgj65qd9T2fvhQhOQ.jpeg
+cover: /media/works/2019-04-04-that-ray-of-light/01.webp
 draft: false
 gallery:
-  - https://miro.medium.com/v2/resize:fit:1600/1*Y_gOWpgj65qd9T2fvhQhOQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*uSK9adG6Rcyg9EOM2YywCw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*YtIbJ1ZqlLeNyY4Q0tKf0Q.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*Nuj7RugZHdgyYU02dLc4mQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*jKBhjiB5_xiVS8pMmtrYsw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*ES4XTT3LGblHQxFWq00Gjw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*37-tsR7kAlEZgTgD3XI96Q.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*T74q8tQhPO0whAOGhKAaBQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*J-9ZE7zMuWf1HGvJrKW39A.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*yc5bCiVKPycQCC4P_YGZwQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*GZ76XdUzM5zSAtGw5wTMSA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*D2hO02rxV6XWfG8N5c0ZVQ.jpeg
+  - /media/works/2019-04-04-that-ray-of-light/01.webp
+  - /media/works/2019-04-04-that-ray-of-light/02.webp
+  - /media/works/2019-04-04-that-ray-of-light/03.webp
+  - /media/works/2019-04-04-that-ray-of-light/04.webp
+  - /media/works/2019-04-04-that-ray-of-light/05.webp
+  - /media/works/2019-04-04-that-ray-of-light/06.webp
+  - /media/works/2019-04-04-that-ray-of-light/07.webp
+  - /media/works/2019-04-04-that-ray-of-light/08.webp
+  - /media/works/2019-04-04-that-ray-of-light/09.webp
+  - /media/works/2019-04-04-that-ray-of-light/10.webp
+  - /media/works/2019-04-04-that-ray-of-light/11.webp
+  - /media/works/2019-04-04-that-ray-of-light/12.webp
 ---
 20130917，天未亮，就從台中搭上火車，朝羅東、玉里前進，這天的行程有三位農夫要拜訪，一路擔心下午行程不知是否趕得上太陽下山前。
 

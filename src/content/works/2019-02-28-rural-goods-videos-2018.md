@@ -3,10 +3,10 @@ title: "2018農村好物行銷影片"
 date: 2019-02-28
 category: 水積成川
 summary: "驗收前對「長官』的一段說明…"
-cover: https://miro.medium.com/v2/resize:fit:1600/1*M0zyWGc4eirVCj-MBXxSXw.png
+cover: /media/works/2019-02-28-rural-goods-videos-2018/01.webp
 draft: false
 gallery:
-  - https://miro.medium.com/v2/resize:fit:1600/1*M0zyWGc4eirVCj-MBXxSXw.png
+  - /media/works/2019-02-28-rural-goods-videos-2018/01.webp
 ---
 媒體有其特性與限制，以及運用考量…
 

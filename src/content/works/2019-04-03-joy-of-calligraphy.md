@@ -3,23 +3,23 @@ title: "透過寫字，發現快樂"
 date: 2019-04-03
 category: 心靈容器
 summary: "陳桂森寫字，沒有什麼明顯的風格，就是寫字，順順的寫字。"
-cover: https://miro.medium.com/v2/resize:fit:1600/1*QIyPQfa49FklJtrvnMr3vA.jpeg
+cover: /media/works/2019-04-03-joy-of-calligraphy/01.webp
 draft: false
 gallery:
-  - https://miro.medium.com/v2/resize:fit:1600/1*QIyPQfa49FklJtrvnMr3vA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*0MOiwgWXiX7Yr-_ItuyHTA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*LFA-Xs3lGeIkw6dEgQsE_g.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*ETu2GUtFRISarmNKkRWxGg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*emDm5Z7hrI3hhYzN81tzWw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*2RID1EXy0L7NovC5YB8J0A.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*Mt_PCJ-hIw2NRK2TmX7fAg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*9IVG0dHsQg9rTW4c_m7VkQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*uL_NBv-aUyAft_ElfJqVJA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*RuRDWh-8HFymLRqVrxuiag.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*7Ay0n1hUK2eOGllCxxkRSA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*d1XjmSaF6IrfFGfF5sekQQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*JsyUI-9HNmA537Y8SFa9aA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*9rQtkaZ80LNSLu4s1UzDag.jpeg
+  - /media/works/2019-04-03-joy-of-calligraphy/01.webp
+  - /media/works/2019-04-03-joy-of-calligraphy/02.webp
+  - /media/works/2019-04-03-joy-of-calligraphy/03.webp
+  - /media/works/2019-04-03-joy-of-calligraphy/04.webp
+  - /media/works/2019-04-03-joy-of-calligraphy/05.webp
+  - /media/works/2019-04-03-joy-of-calligraphy/06.webp
+  - /media/works/2019-04-03-joy-of-calligraphy/07.webp
+  - /media/works/2019-04-03-joy-of-calligraphy/08.webp
+  - /media/works/2019-04-03-joy-of-calligraphy/09.webp
+  - /media/works/2019-04-03-joy-of-calligraphy/10.webp
+  - /media/works/2019-04-03-joy-of-calligraphy/11.webp
+  - /media/works/2019-04-03-joy-of-calligraphy/12.webp
+  - /media/works/2019-04-03-joy-of-calligraphy/13.webp
+  - /media/works/2019-04-03-joy-of-calligraphy/14.webp
 captions: "20161010大甲"
 ---
 學長陳桂森，文化大學美術系畢業，從事兒童美術教育很長一段日子，也曾短暫出家，現在在大甲做五葉松醋。透過一個朋友的介紹，才認識了這位同校美術系的學長，一個非常樂天的人，還寫得一手好字。

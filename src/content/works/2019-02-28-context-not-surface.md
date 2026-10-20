@@ -3,10 +3,10 @@ title: "別看表象，看脈絡…"
 date: 2019-02-28
 category: 靈光浮塵
 summary: "是抄襲？還是英雄所見略同？ 別看表象，看脈絡…"
-cover: https://miro.medium.com/v2/resize:fit:1600/1*QBTy5LtxYR4mQNBwCnrTSw.jpeg
+cover: /media/works/2019-02-28-context-not-surface/01.webp
 draft: false
 gallery:
-  - https://miro.medium.com/v2/resize:fit:1600/1*QBTy5LtxYR4mQNBwCnrTSw.jpeg
+  - /media/works/2019-02-28-context-not-surface/01.webp
 ---
 大一構成課期中報告前一天，有個學生緊急呼叫我：老師，班上怎麼有一組跟我們要做得很像？您怎麼沒提醒我們？
 

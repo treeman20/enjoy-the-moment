@@ -3,12 +3,12 @@ title: "封面與專題，吸引與陳述。"
 date: 2019-03-02
 category: 靈光浮塵
 summary: "一個設計要做的事是吸引與陳述兩件事。"
-cover: https://miro.medium.com/v2/resize:fit:1600/1*51E2gLkCb7Z8a_gFPx2xoQ.jpeg
+cover: /media/works/2019-03-02-cover-and-feature/01.webp
 draft: false
 gallery:
-  - https://miro.medium.com/v2/resize:fit:1600/1*51E2gLkCb7Z8a_gFPx2xoQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*1_ZlI_5uBuqg6Pa5xjZovQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*dt6fTsGVEMnFSpc95T8-fw.png
+  - /media/works/2019-03-02-cover-and-feature/01.webp
+  - /media/works/2019-03-02-cover-and-feature/02.webp
+  - /media/works/2019-03-02-cover-and-feature/03.webp
 ---
 一個設計要做的事是吸引與陳述兩件事，把觀眾先吸引過來，然後告訴他要陳述的內容與細節。這就像雜誌編輯裡的兩件工作，專題報導與封面設計，但重點是專題報導。不過因為封面比較容易被看到，許多學設計的人以為重點是封面設計。 2017年七月中，FB突然開始流行以『台灣』為題，封面產生器的網紅畫面。許多人跟隨，讚美台灣很美，台灣現況很好，勿自卑。 產生器連結內文描述如下： 『如果要介紹台灣，你覺得選哪張照片才是最適合的呢？
 

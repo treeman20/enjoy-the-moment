@@ -3,10 +3,10 @@ title: "攝影課？教什麼？"
 date: 2019-03-02
 category: 靈光浮塵
 summary: "光與設備、影像處理、影像編輯與影像應用"
-cover: https://miro.medium.com/v2/resize:fit:1600/1*xaBMxP4LhWKqQyt6zzx7rg.jpeg
+cover: /media/works/2019-03-02-teaching-photography/01.webp
 draft: false
 gallery:
-  - https://miro.medium.com/v2/resize:fit:1600/1*xaBMxP4LhWKqQyt6zzx7rg.jpeg
+  - /media/works/2019-03-02-teaching-photography/01.webp
 ---
 因為精細的分工，與社會的發展，商業設計系要規劃的攝影課，就不只是『認識光的作用』，以及認識『紀錄影像的設備』這件事情。
 

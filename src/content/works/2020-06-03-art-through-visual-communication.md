@@ -3,14 +3,14 @@ title: "從視覺傳達看藝術創作"
 date: 2020-06-03
 category: 閱讀脈絡
 summary: "東海大學美術系碩士在職專班口試心得"
-cover: https://miro.medium.com/v2/resize:fit:1600/1*97woIMxjDeUKefgoSlmDmg.jpeg
+cover: /media/works/2020-06-03-art-through-visual-communication/01.webp
 draft: false
 gallery:
-  - https://miro.medium.com/v2/resize:fit:1600/1*97woIMxjDeUKefgoSlmDmg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*ytGsdiULEK0rUA9U3SckKw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*xyumMYDtsTToPKAlC_BFvw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*KiegKOVgzo-iSXT4ulmcFg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*X5nE9WZcDveaMayj4HhedA.jpeg
+  - /media/works/2020-06-03-art-through-visual-communication/01.webp
+  - /media/works/2020-06-03-art-through-visual-communication/02.webp
+  - /media/works/2020-06-03-art-through-visual-communication/03.webp
+  - /media/works/2020-06-03-art-through-visual-communication/04.webp
+  - /media/works/2020-06-03-art-through-visual-communication/05.webp
 ---
 東海大學美術系在職專班碩士口試筆記：
 

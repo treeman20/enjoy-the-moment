@@ -3,18 +3,18 @@ title: "打赤腳，回應對土地的信任"
 date: 2019-04-04
 category: 心靈容器
 summary: "我以為那是對這塊土地的最親密接觸，也是一份信任。"
-cover: https://miro.medium.com/v2/resize:fit:1600/1*PtuUEBeO4gUwzNNstr0ukw.jpeg
+cover: /media/works/2019-04-04-barefoot-on-the-land/01.webp
 draft: false
 gallery:
-  - https://miro.medium.com/v2/resize:fit:1600/1*PtuUEBeO4gUwzNNstr0ukw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*OGXhnCGe13xzrME0oDiVIw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*XNJpBF6HeXYGsYuMqiAMeA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*Tm9yAp4jCeTD3aQbUIw95A.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*JYcYNOxmywFT5plY49dsfw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*WOI-o6tBIDT07hW6OulieA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*b_bdtYMPQbBYvnIqTomARg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*sMtQOBK7Ez-rl9aGZ8eymA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*iiTi0hTOK30R6FnbMDzpxg.jpeg
+  - /media/works/2019-04-04-barefoot-on-the-land/01.webp
+  - /media/works/2019-04-04-barefoot-on-the-land/02.webp
+  - /media/works/2019-04-04-barefoot-on-the-land/03.webp
+  - /media/works/2019-04-04-barefoot-on-the-land/04.webp
+  - /media/works/2019-04-04-barefoot-on-the-land/05.webp
+  - /media/works/2019-04-04-barefoot-on-the-land/06.webp
+  - /media/works/2019-04-04-barefoot-on-the-land/07.webp
+  - /media/works/2019-04-04-barefoot-on-the-land/08.webp
+  - /media/works/2019-04-04-barefoot-on-the-land/09.webp
 ---
 莊典男這對農村夫婦，這幾年大概拿過三年的台灣十大好米。
 

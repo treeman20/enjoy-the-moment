@@ -3,19 +3,19 @@ title: "光與影的感受與實踐"
 date: 2019-06-14
 category: 靈光浮塵
 summary: "Photoshop、Lightroom裡有名詞叫『反差』，英文是contrast"
-cover: https://miro.medium.com/v2/resize:fit:1600/1*Pbg6tb-yQns_xK2CVBM8ug.jpeg
+cover: /media/works/2019-06-14-light-and-shadow/01.webp
 draft: false
 gallery:
-  - https://miro.medium.com/v2/resize:fit:1600/1*Pbg6tb-yQns_xK2CVBM8ug.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*c4tqflX7ISm2vs-1um8k_Q.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*9ZIlMsJudztUedt1-uCGQw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*PGVq_1Qr3TeAMOsvEZ_wng.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*DTOL_G-S21n151Ns-R7PDg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*GJ0fx35rVZoAmZU8jY9NIg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*-6lvwc1Uiq2L-W0wQxaqFQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*DFemI-2Ah1pREFg2JCFjug.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*bwi3Ua49-iTUpkoRMtx8LQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*LcPeCpUczRDSygP-BZPfYw.jpeg
+  - /media/works/2019-06-14-light-and-shadow/01.webp
+  - /media/works/2019-06-14-light-and-shadow/02.webp
+  - /media/works/2019-06-14-light-and-shadow/03.webp
+  - /media/works/2019-06-14-light-and-shadow/04.webp
+  - /media/works/2019-06-14-light-and-shadow/05.webp
+  - /media/works/2019-06-14-light-and-shadow/06.webp
+  - /media/works/2019-06-14-light-and-shadow/07.webp
+  - /media/works/2019-06-14-light-and-shadow/08.webp
+  - /media/works/2019-06-14-light-and-shadow/09.webp
+  - /media/works/2019-06-14-light-and-shadow/10.webp
 ---
 進出攝影棚，最怕看到學生棚拍時，把兩盞燈從左右前方，照向被拍的主體（像是打探照燈），然後沒有光影，也沒有層次。
 

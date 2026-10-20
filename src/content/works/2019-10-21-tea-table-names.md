@@ -3,35 +3,35 @@ title: "柴房拾悅之茶席命名"
 date: 2019-10-21
 category: 水積成川
 summary: "依型態、依意義，也依歷史典故的命名發想"
-cover: https://miro.medium.com/v2/resize:fit:1600/1*9V9pTYGHl3GDzg5t8pkOTQ.jpeg
+cover: /media/works/2019-10-21-tea-table-names/01.webp
 draft: false
 gallery:
-  - https://miro.medium.com/v2/resize:fit:1600/1*9V9pTYGHl3GDzg5t8pkOTQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*-j3z2J8Ws8adcr2832cmbg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*DY8kvhbY9GMlY8oGJCJYSQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*1-dqLuY5ya9w7aSYym9GHA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*CiO8nzcmWEwNSRG7xV7IJw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*XHukpql-zjOCIxaAsMzXOQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*55t4tUTGtUgpzpOz3VbcZw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*XBRsMXObOWI84urhyl9Ndg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*8FfmIPyckJaNFZ_26CIoPg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*UedyouFfSZF3E4eErX1pAQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*2PN_EtMbnweiC3twW4b6IA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*WRGBW7__H-jsOX1rNm3z0g.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*_95dQ3Bwari6aUnHIYCPcQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*LWipE5u_XtTco_VNiGPtSw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*eebzw0KMUI1OaAInkfZ68w.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*DUtpK2WcERSd0xBlMTrI_w.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*Th-NKDMJ8RBLXPnlDutZfw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*4PnCD7MayfFUwPgixst5Ow.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*SQAhPSsaVoLLgwtOSkSjzA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*2K9bnKqPZ_bzBrxjD-XNiQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*WrEO5GWv55QSTPSmCthxfQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*jcVq2MwS6I2GUMKtRS9lcg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*qziGsQXpflESUt0bhjojbg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*5jojYAJWwgem8zmHfVlykg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*rd-qPbhRLG8nKxX-mHS6cg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*d7D3ymujjsF_DTdJ5JCV4w.jpeg
+  - /media/works/2019-10-21-tea-table-names/01.webp
+  - /media/works/2019-10-21-tea-table-names/02.webp
+  - /media/works/2019-10-21-tea-table-names/03.webp
+  - /media/works/2019-10-21-tea-table-names/04.webp
+  - /media/works/2019-10-21-tea-table-names/05.webp
+  - /media/works/2019-10-21-tea-table-names/06.webp
+  - /media/works/2019-10-21-tea-table-names/07.webp
+  - /media/works/2019-10-21-tea-table-names/08.webp
+  - /media/works/2019-10-21-tea-table-names/09.webp
+  - /media/works/2019-10-21-tea-table-names/10.webp
+  - /media/works/2019-10-21-tea-table-names/11.webp
+  - /media/works/2019-10-21-tea-table-names/12.webp
+  - /media/works/2019-10-21-tea-table-names/13.webp
+  - /media/works/2019-10-21-tea-table-names/14.webp
+  - /media/works/2019-10-21-tea-table-names/15.webp
+  - /media/works/2019-10-21-tea-table-names/16.webp
+  - /media/works/2019-10-21-tea-table-names/17.webp
+  - /media/works/2019-10-21-tea-table-names/18.webp
+  - /media/works/2019-10-21-tea-table-names/19.webp
+  - /media/works/2019-10-21-tea-table-names/20.webp
+  - /media/works/2019-10-21-tea-table-names/21.webp
+  - /media/works/2019-10-21-tea-table-names/22.webp
+  - /media/works/2019-10-21-tea-table-names/23.webp
+  - /media/works/2019-10-21-tea-table-names/24.webp
+  - /media/works/2019-10-21-tea-table-names/25.webp
+  - /media/works/2019-10-21-tea-table-names/26.webp
 ---
 1.苦戀。苦楝是台灣很常見的木頭，在春天的時候會開滿灰紫色的小花；到秋天的時候，樹葉落盡，又會展現一串串黃色的小果實，是台灣常見的樹木，但就是因為名子取得不好聽，一般家裡不會種植這樣的樹木，苦楝還可以提煉它的樹汁，成為苦楝油，是一種環保的農藥，適用於有機栽培。  
 這次的苦楝材料來自台南鄉下，早期台南鄉下都會在家外旁種上一棵苦楝，等長大後，可以拿來做傢俱，可是這顆苦楝沒機會成為傢俱，因為樹的主人老阿伯，年紀太大了，不需要做什麼傢俱，卻因土地原址要蓋倉庫，所以苦楝被放倒，魏老師帶太太回娘家時有機會買到這樣的材料，做成桌子。  

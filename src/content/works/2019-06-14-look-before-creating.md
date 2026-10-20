@@ -3,19 +3,19 @@ title: "創作前，先看看，再碰碰"
 date: 2019-06-14
 category: 靈光浮塵
 summary: "你不能一直只會畫心目中的那一片葉子，那根草，卻無以名之"
-cover: https://miro.medium.com/v2/resize:fit:1600/1*rZnhwQCAbYwj78h6teiu5w.jpeg
+cover: /media/works/2019-06-14-look-before-creating/01.webp
 draft: false
 gallery:
-  - https://miro.medium.com/v2/resize:fit:1600/1*rZnhwQCAbYwj78h6teiu5w.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*EKbhCBYLscHZhzKr1uKm0w.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*9R_FDmI7FApc-61ZBzHpWg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*MsNbG2MK38Q4AWicHo5n8g.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*WOMfpnuRHzzj8B-pLoN8tw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*iIQ_IKl2AAa7-sM7ypGQ-g.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*Na7WZirNRnoLUER8dCFNUQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*I8FNX1oRHLo21kQw4ULc-w.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*CeE6JXZIAe_Mm9CbCF359w.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*jJuI_ghSFGmJg-V_dhpcUg.jpeg
+  - /media/works/2019-06-14-look-before-creating/01.webp
+  - /media/works/2019-06-14-look-before-creating/02.webp
+  - /media/works/2019-06-14-look-before-creating/03.webp
+  - /media/works/2019-06-14-look-before-creating/04.webp
+  - /media/works/2019-06-14-look-before-creating/05.webp
+  - /media/works/2019-06-14-look-before-creating/06.webp
+  - /media/works/2019-06-14-look-before-creating/07.webp
+  - /media/works/2019-06-14-look-before-creating/08.webp
+  - /media/works/2019-06-14-look-before-creating/09.webp
+  - /media/works/2019-06-14-look-before-creating/10.webp
 ---
 孩子，你不能一直只會畫心目中的那一片葉子，心目中的那一條魚，跟心目中的那一隻草！然後也說不出那是什麼名字。  
 這樣我沒辦法從這些作業看到你的進步與學習企圖啊！

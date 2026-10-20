@@ -3,54 +3,54 @@ title: "喔，這花種十年了！"
 date: 2020-03-13
 category: 靈光浮塵
 summary: "看到的不只是浪漫的紫花，更有簡單卻有效的策略。"
-cover: https://miro.medium.com/v2/resize:fit:1600/1*JyCcgtuXsOoJXJ6sXE2WUA.jpeg
+cover: /media/works/2020-03-13-ten-years-of-flowers/01.webp
 draft: false
 gallery:
-  - https://miro.medium.com/v2/resize:fit:1600/1*JyCcgtuXsOoJXJ6sXE2WUA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*frLSWlPSU2FQ4eyTjbpn6Q.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*gejy1zuUL0sgsGkT06w3Ng.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*JZa2YqRyyRvom6mSWHEimg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*8ntRlgu1rVI8WHz9EpiOHQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*BGxBbTQTq4cnzBtiWlVMrw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*wmd4FnPVL0LUjMVoattxBQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*rnCDtT1eL5G9LE6aDPoR6A.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*HPEbH1V4IEnNw_AcGG9zAg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*JaY8N4pblswWklxQ53hinw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*sby3FFLCQmEbWy0J7pfq3w.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*4LAofatbtRHpCpl21Y4FNg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*zDUhbxG4XDGgUb0UJ0CNJQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*Y9OTxwxPxkQIVNmd6wQLmw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*S1AZVPgWpGAyDFBtMtW3vg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*b0ivXEi2aFhZrlZmJkobTQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*FKObWbz2gFEaCTJFLDovSQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*5VMhF-whAHjOomTkDqC2Gw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*GZhbNPjejQj81cFEuZWoyQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*JZ_T216RCLAULu30bV5qEg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*hN-t2qGkigFStcz013y8LQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*5TExiiphPWXTC1DNTA_j7w.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*FMZdNJzVa4YUMq5aJnGJBw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*wDThCzkqK50THXxit51L_g.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*YJbVq9LmIKblDmLdM2lE2A.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*dD2t6INd5SGl2zuu2FRl8w.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*XCcCZ9XtD_0Wqie7OpInpA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*5b90pCDtDna-4V_AxyjycA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*GTVtSkS9A46z1OuH8R5bhA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*59MrsWFc_TcVN1Dz47x1hQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*tyu8-8q64dwDtPQrT_HVMg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*BBAL2J2_7sawMoalIni1-A.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*SXkFS1PeB2Uq4SHdWnJzYg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*tuxJVq1C63sVKJe4dp_2BA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*ArAtMJYNgr9oU5TzyZ03WA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*LgsoXHsGKgDUfhXZPm5Ymw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*Fzq1aNOsytlkx2Hx0uQs2g.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*cnpP4BcwGWgVPiATSEGR5w.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*0GgRysgABEWkei8Xb090MQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*lWv_mIvVmAhdvup2BHlEbg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*8Q9KdhsfC5aex0mq6NFSJA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*d3N-As137lN5aI8hi6HbSA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*mtQIPU7_4crpaFAvWXcljA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*UwhHFrYtlY2TyLO6RYQngg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*tvNxXVrXiRPAjuU-ZIs92g.jpeg
+  - /media/works/2020-03-13-ten-years-of-flowers/01.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/02.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/03.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/04.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/05.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/06.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/07.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/08.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/09.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/10.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/11.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/12.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/13.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/14.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/15.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/16.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/17.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/18.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/19.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/20.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/21.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/22.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/23.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/24.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/25.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/26.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/27.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/28.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/29.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/30.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/31.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/32.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/33.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/34.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/35.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/36.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/37.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/38.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/39.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/40.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/41.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/42.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/43.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/44.webp
+  - /media/works/2020-03-13-ten-years-of-flowers/45.webp
 ---
 在臉書上看到同學造訪了中寮山間的一個茶園，在一片錫葉藤紫花前拍下美好。很久沒有新的「花開堪折」內容，於是安排了這次的造訪。在沒什麼人的山野路上，循著google map的導航，看到了在路邊的這片錫葉藤，也看到不少聞訊而至的遊客。這才發現我要找的是「茶花園」，不是「茶園」！
 

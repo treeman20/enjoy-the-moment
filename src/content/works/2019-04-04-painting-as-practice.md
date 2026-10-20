@@ -3,15 +3,15 @@ title: "這是畫畫，也在修行啊！"
 date: 2019-04-04
 category: 心靈容器
 summary: "八個小時的跪姿點描，這是拿生命在做創作吧！"
-cover: https://miro.medium.com/v2/resize:fit:1600/1*a6SD19TNOPSv9lgh2G61Mw.jpeg
+cover: /media/works/2019-04-04-painting-as-practice/01.webp
 draft: false
 gallery:
-  - https://miro.medium.com/v2/resize:fit:1600/1*a6SD19TNOPSv9lgh2G61Mw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*Tzczv1oksdUScC-p00pCAA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*v4jy3UfTwkcOLdYdWGDkxQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*xuBX0wBkd6ycFb9d8bs78g.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*bieLf1u57QGc5q2xc2y1lQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*iRWXjgIk3WtqABU90DVhGA.jpeg
+  - /media/works/2019-04-04-painting-as-practice/01.webp
+  - /media/works/2019-04-04-painting-as-practice/02.webp
+  - /media/works/2019-04-04-painting-as-practice/03.webp
+  - /media/works/2019-04-04-painting-as-practice/04.webp
+  - /media/works/2019-04-04-painting-as-practice/05.webp
+  - /media/works/2019-04-04-painting-as-practice/06.webp
 ---
 陳珮怡也是我FB的友人之一，看到她的作品細膩精緻，且是以岩彩這些材料完成的。所以想要認識這位作者。因為，那陣子我有想要重拾繪畫的想法，對於岩彩這材料也深感興趣，所以便主動聯繫FB的這位藝術家，並安排拜訪。巧的是，她的工作室離我家非常近。
 

@@ -3,22 +3,22 @@ title: "苑裡。藺草編織人"
 date: 2019-04-07
 category: 水積成川
 summary: "台灣苑裡阿嬤的故事，用文史記錄來聚集關係。"
-cover: https://miro.medium.com/v2/resize:fit:1600/1*y-RaNfb6qT8vRtkAD0jSCA.jpeg
+cover: /media/works/2019-04-07-rush-weavers-of-yuanli/01.webp
 draft: false
 gallery:
-  - https://miro.medium.com/v2/resize:fit:1600/1*y-RaNfb6qT8vRtkAD0jSCA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*JE92Kh3T9YTfMzT4xbhsZg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*TAw6m29JumQBBGhbmGg7Zw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*m7fn-7hdiyolMJWx9KnOag.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*Hp6hwjSAYGiY7RU8vHs_fw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*OyzUy2LEcBPI_ZqatrSY2w.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*wpbDVtThApPQQyN43rz-PQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*ssQW58oWNuzwdBMdxY8ZvA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*qzhfHiHu1E1b7TpiKwBuyA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*v0RNKVdmoz1m3_kl1P2kvw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*JuRS727yfynuMBCUr3V8MQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*RW0raJpgrmdzBa-Tr7B8fA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*PwiFUUS83gVt1BqFvGMLbw.png
+  - /media/works/2019-04-07-rush-weavers-of-yuanli/01.webp
+  - /media/works/2019-04-07-rush-weavers-of-yuanli/02.webp
+  - /media/works/2019-04-07-rush-weavers-of-yuanli/03.webp
+  - /media/works/2019-04-07-rush-weavers-of-yuanli/04.webp
+  - /media/works/2019-04-07-rush-weavers-of-yuanli/05.webp
+  - /media/works/2019-04-07-rush-weavers-of-yuanli/06.webp
+  - /media/works/2019-04-07-rush-weavers-of-yuanli/07.webp
+  - /media/works/2019-04-07-rush-weavers-of-yuanli/08.webp
+  - /media/works/2019-04-07-rush-weavers-of-yuanli/09.webp
+  - /media/works/2019-04-07-rush-weavers-of-yuanli/10.webp
+  - /media/works/2019-04-07-rush-weavers-of-yuanli/11.webp
+  - /media/works/2019-04-07-rush-weavers-of-yuanli/12.webp
+  - /media/works/2019-04-07-rush-weavers-of-yuanli/13.webp
 captions: "\n\n\n\n\n\n\n\n\n\n\n\nhttps://issuu.com/871402/docs/_______________-_________"
 ---
 在2007年元月，苑裡鎮農會的藺草文化館展示做了局部調整。

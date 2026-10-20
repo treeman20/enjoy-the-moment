@@ -3,12 +3,12 @@ title: "環景攝影，可以講很多事"
 date: 2019-03-09
 category: 靈光浮塵
 summary: "影像，更多的時候講的不只是主體，還有環境，更是關係。"
-cover: https://miro.medium.com/v2/resize:fit:1600/1*EoZO84qjB-0bswCLEeW0fQ.jpeg
+cover: /media/works/2019-03-09-panoramic-photography/01.webp
 draft: false
 gallery:
-  - https://miro.medium.com/v2/resize:fit:1600/1*EoZO84qjB-0bswCLEeW0fQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*vMmGFfNpmT3_xx_hobtOlg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*qf96E6nRv2LM6GL3b1vC2g.jpeg
+  - /media/works/2019-03-09-panoramic-photography/01.webp
+  - /media/works/2019-03-09-panoramic-photography/02.webp
+  - /media/works/2019-03-09-panoramic-photography/03.webp
 ---
 影像，更多的時候講的不只是主體，還有環境，更是關係。  
 因為從影像讀到的，不該只是單純的一件事、一個形、或是人而已，還有更多的其他。

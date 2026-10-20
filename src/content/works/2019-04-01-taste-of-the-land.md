@@ -3,42 +3,42 @@ title: "坐看雲起，喝出土地的味道"
 date: 2019-04-01
 category: 心靈容器
 summary: "我們知道很多事，但沒有體會就是不懂，像『品味』就是！"
-cover: https://miro.medium.com/v2/resize:fit:1600/1*KcaYtO9xLoTGoPKlvV7qMw.jpeg
+cover: /media/works/2019-04-01-taste-of-the-land/01.webp
 draft: false
 gallery:
-  - https://miro.medium.com/v2/resize:fit:1600/1*KcaYtO9xLoTGoPKlvV7qMw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*V5j2JmNikZpz1OTjIPhqvA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*-W8ue6al3aykW8-OrogUbA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*JjJH3QJeQNa6OX5vI4vM7A.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*yIVzTfxq6mbri1p6xFO2KA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*Y0iesxnJGRrWkcmLLGk1_w.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*hSmmjkGQntOyR51nijb0Fw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*NPDKGA59mbFkN5jZnES2Zw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*bGhjidCvWGP1xv-Z1YjmvA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*IAKYFzKy4cfuULdWUEZkVQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*MTvHJURnUJFW_g7USlHHSg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*InAaPXkiS8rK2p1e3MPmUw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*0QcsHVGozZlMS_o56HPDrA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*uiPVrRdz8ZVwE8LiTjv6zw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*DdRnfJWr04NpEQQ6Wj4Wzg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*IGUqDRQep0P88a_ypsfUfg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*d88cFcaNdjzBHTZc_kl6Rg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*xjBFBNVPXYAXhCRFrEJT2g.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*e_YkOiWICuLCOhmKqJiZOQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*EffHEqmZ2To9YHax-ppznQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*kWs8qfLC8Cr7UcLXwOBDvg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*YTO6uH-DfqxiU1ROVhX7Yw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*npOd1BBsXZilz-qo-2n1sQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*i3i4wXkVHYwFy46M5HfUXg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*5KxPCih_QTV9-xERdGESDg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*B8_14oXeukVtx9nA7O30aw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*eYybM9rhWPZQQFZnaN2O4Q.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*fKZwUzCF74ihgjLHwjH1cw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*jcg9wJXPWdYSHql7XKnp0g.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*xqAoISCj8nE3-cYAG_VbmQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*W8G8hp_K5ZGr7sW84fvuVw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*YKCzkO2gxDJLe83GloJGcw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*0Qn7SSO6kuOMCTlooKR0BQ.jpeg
+  - /media/works/2019-04-01-taste-of-the-land/01.webp
+  - /media/works/2019-04-01-taste-of-the-land/02.webp
+  - /media/works/2019-04-01-taste-of-the-land/03.webp
+  - /media/works/2019-04-01-taste-of-the-land/04.webp
+  - /media/works/2019-04-01-taste-of-the-land/05.webp
+  - /media/works/2019-04-01-taste-of-the-land/06.webp
+  - /media/works/2019-04-01-taste-of-the-land/07.webp
+  - /media/works/2019-04-01-taste-of-the-land/08.webp
+  - /media/works/2019-04-01-taste-of-the-land/09.webp
+  - /media/works/2019-04-01-taste-of-the-land/10.webp
+  - /media/works/2019-04-01-taste-of-the-land/11.webp
+  - /media/works/2019-04-01-taste-of-the-land/12.webp
+  - /media/works/2019-04-01-taste-of-the-land/13.webp
+  - /media/works/2019-04-01-taste-of-the-land/14.webp
+  - /media/works/2019-04-01-taste-of-the-land/15.webp
+  - /media/works/2019-04-01-taste-of-the-land/16.webp
+  - /media/works/2019-04-01-taste-of-the-land/17.webp
+  - /media/works/2019-04-01-taste-of-the-land/18.webp
+  - /media/works/2019-04-01-taste-of-the-land/19.webp
+  - /media/works/2019-04-01-taste-of-the-land/20.webp
+  - /media/works/2019-04-01-taste-of-the-land/21.webp
+  - /media/works/2019-04-01-taste-of-the-land/22.webp
+  - /media/works/2019-04-01-taste-of-the-land/23.webp
+  - /media/works/2019-04-01-taste-of-the-land/24.webp
+  - /media/works/2019-04-01-taste-of-the-land/25.webp
+  - /media/works/2019-04-01-taste-of-the-land/26.webp
+  - /media/works/2019-04-01-taste-of-the-land/27.webp
+  - /media/works/2019-04-01-taste-of-the-land/28.webp
+  - /media/works/2019-04-01-taste-of-the-land/29.webp
+  - /media/works/2019-04-01-taste-of-the-land/30.webp
+  - /media/works/2019-04-01-taste-of-the-land/31.webp
+  - /media/works/2019-04-01-taste-of-the-land/32.webp
+  - /media/works/2019-04-01-taste-of-the-land/33.webp
 ---
 2016年，我們的文化與設計課程排了茶文化探訪，五月六號那天我們到梅山拜訪簡嘉文。  
 因為下錯交流道，多開了幾十分鐘的路，但是到了梅山的茶區後，環山茶園漂亮極了，趕快下車欣賞並拍照一下。  

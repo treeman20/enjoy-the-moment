@@ -3,10 +3,10 @@ title: "收藏物件？還是收藏心情？"
 date: 2019-03-09
 category: 靈光浮塵
 summary: "是那篇文章建議50歲以上的人就應該要習慣孤獨與自處。"
-cover: https://miro.medium.com/v2/resize:fit:1600/1*e7JkBP7Vv7tq_e3Fvn3KCg.jpeg
+cover: /media/works/2019-03-09-collecting-moods/01.webp
 draft: false
 gallery:
-  - https://miro.medium.com/v2/resize:fit:1600/1*e7JkBP7Vv7tq_e3Fvn3KCg.jpeg
+  - /media/works/2019-03-09-collecting-moods/01.webp
 ---
 很久沒有整理房間了，桌面與地板都蒙上一層灰塵，拿著抹布慢慢地擦拭，木桌的紋理也隨之浮現，伴隨水氣微微散發的檜木香味…
 

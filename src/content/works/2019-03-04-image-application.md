@@ -3,10 +3,10 @@ title: "影像應用，讓影像有價值"
 date: 2019-03-04
 category: 靈光浮塵
 summary: "影像進入編輯，是純攝影與應用攝影最大的區隔。"
-cover: https://miro.medium.com/v2/resize:fit:1600/1*_uLR0QAeYlJCvx9d-XdWPw.jpeg
+cover: /media/works/2019-03-04-image-application/01.webp
 draft: false
 gallery:
-  - https://miro.medium.com/v2/resize:fit:1600/1*_uLR0QAeYlJCvx9d-XdWPw.jpeg
+  - /media/works/2019-03-04-image-application/01.webp
 ---
 一、人物攝影的作業，商品攝影的作業為何都不是攝影就好，還要花這麼多的時間作編排？ 二、為什麼改版要這麼多次？不是一次就好？甚至其他設計課也是一直改？
 
