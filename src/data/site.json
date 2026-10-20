@@ -1,9 +1,16 @@
 {
   "title": "花開堪折｜Enjoy The Moment",
   "tagline": "Taiwan’s four seasons note",
-  "description": "趙樹人的 AI 影像創作集。以系列為單位，記錄每一次的主題、日期與創作念頭。",
+  "description": "趙樹人的 影像與AIGC創作集。以系列為單位，記錄每一次的主題、日期與創作念頭。",
   "author": "趙樹人",
   "url": "https://enjoy-the-moment.pages.dev",
   "about": "這裡收錄我以 AI 生成的影像系列。每一個系列都從一個念頭開始，延伸成二十張左右的畫面。\n\n網站由我自己維護，歡迎慢慢看。",
-  "categories": ["春泥圖輯", "心靈容器", "閱讀脈絡", "靈光浮塵", "水積成川"]
+  "categories": [
+    "春泥圖輯",
+    "心靈容器",
+    "閱讀脈絡",
+    "靈光浮塵",
+    "水積成川",
+    "AIGC作品"
+  ]
 }
