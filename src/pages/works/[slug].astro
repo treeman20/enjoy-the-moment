@@ -1,0 +1,128 @@
+---
+import { render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import site from '../../data/site.json';
+import { getWorks, coverOf, formatDate, isoDate, plainExcerpt } from '../../lib/works';
+
+export async function getStaticPaths() {
+  const works = await getWorks();
+  return works.map((w, i) => ({
+    params: { slug: w.id },
+    props: { work: w, newer: works[i - 1], older: works[i + 1] },
+  }));
+}
+const { work, newer, older } = Astro.props;
+const { Content } = await render(work);
+const d = work.data;
+const images = d.images ?? [];
+const cover = coverOf(work);
+const desc = plainExcerpt(work, 150);
+const abs = (p: string) => new URL(p, Astro.site ?? site.url).href;
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'ImageGallery',
+  name: d.title,
+  headline: d.title,
+  description: desc,
+  datePublished: d.date.toISOString(),
+  author: { '@type': 'Person', name: site.author },
+  genre: d.category || undefined,
+  image: images.map((im) => ({
+    '@type': 'ImageObject',
+    contentUrl: abs(im.src),
+    caption: im.caption || undefined,
+    creator: { '@type': 'Person', name: site.author },
+    creditText: site.author,
+  })),
+};
+---
+<Base title={d.title} description={desc} image={cover} type="article" published={d.date.toISOString()} jsonLd={jsonLd}>
+  <article>
+    <header class="article column">
+      {d.category && <a class="kicker" href={`/category/${encodeURIComponent(d.category)}/`}>{d.category}</a>}
+      <h1>{d.title}</h1>
+      {d.summary && <p class="subtitle">{d.summary}</p>}
+      <div class="byline">
+        <div class="avatar" aria-hidden="true">{site.author.slice(-1)}</div>
+        <div>
+          <strong>{site.author}</strong>
+          <time datetime={isoDate(d.date)}>{formatDate(d.date)}</time>
+          {images.length > 0 && <span>・{images.length} 張影像</span>}
+        </div>
+      </div>
+      <div class="prose"><Content /></div>
+      {d.tools && <p class="tools">創作工具：{d.tools}</p>}
+    </header>
+
+    {images.length > 0 && (
+      <section class="gallery" aria-label="作品影像">
+        {images.map((im, i) => (
+          <figure class={i % 7 === 0 ? 'wide' : ''}>
+            <button type="button" data-i={i} aria-label={`放大第 ${i + 1} 張`}>
+              <img
+                src={im.src}
+                alt={im.caption ? `${d.title}・${im.caption}` : `${d.title}・第 ${i + 1} 張`}
+                loading={i < 2 ? 'eager' : 'lazy'}
+                decoding="async"
+              />
+            </button>
+            {(im.caption || images.length > 1) && (
+              <figcaption><span class="num">{String(i + 1).padStart(2, '0')}</span>{im.caption}</figcaption>
+            )}
+          </figure>
+        ))}
+      </section>
+    )}
+
+    <div class="endmark" aria-hidden="true">···</div>
+
+    <nav class="column">
+      <div class="pager">
+        {newer ? <a href={`/works/${newer.id}/`}><small>← 較新的系列</small><span>{newer.data.title}</span></a> : <span />}
+        {older ? <a class="next" href={`/works/${older.id}/`}><small>較早的系列 →</small><span>{older.data.title}</span></a> : <span />}
+      </div>
+    </nav>
+  </article>
+
+  <div class="lb" id="lb" role="dialog" aria-modal="true" aria-label="影像檢視">
+    <button class="x" type="button" aria-label="關閉">×</button>
+    <button class="prev" type="button" aria-label="上一張">‹</button>
+    <img alt="" />
+    <button class="nxt" type="button" aria-label="下一張">›</button>
+    <div class="cap"></div>
+  </div>
+
+  <script is:inline define:vars={{ items: images.map((im) => ({ src: im.src, cap: im.caption || '' })) }}>
+    const lb = document.getElementById('lb');
+    const img = lb.querySelector('img');
+    const cap = lb.querySelector('.cap');
+    let cur = 0;
+    function show(i) {
+      cur = (i + items.length) % items.length;
+      img.src = items[cur].src;
+      cap.textContent = `${cur + 1} / ${items.length}　${items[cur].cap}`;
+    }
+    function open(i) { show(i); lb.classList.add('open'); document.body.style.overflow = 'hidden'; }
+    function close() { lb.classList.remove('open'); document.body.style.overflow = ''; }
+    document.querySelectorAll('.gallery button').forEach((b) => b.addEventListener('click', () => open(+b.dataset.i)));
+    lb.querySelector('.x').addEventListener('click', close);
+    lb.querySelector('.prev').addEventListener('click', (e) => { e.stopPropagation(); show(cur - 1); });
+    lb.querySelector('.nxt').addEventListener('click', (e) => { e.stopPropagation(); show(cur + 1); });
+    lb.addEventListener('click', (e) => { if (e.target === lb) close(); });
+    document.addEventListener('keydown', (e) => {
+      if (!lb.classList.contains('open')) return;
+      if (e.key === 'Escape') close();
+      if (e.key === 'ArrowLeft') show(cur - 1);
+      if (e.key === 'ArrowRight') show(cur + 1);
+    });
+    let sx = null;
+    lb.addEventListener('touchstart', (e) => { sx = e.touches[0].clientX; }, { passive: true });
+    lb.addEventListener('touchend', (e) => {
+      if (sx === null) return;
+      const dx = e.changedTouches[0].clientX - sx;
+      if (Math.abs(dx) > 50) show(cur + (dx < 0 ? 1 : -1));
+      sx = null;
+    });
+  </script>
+</Base>

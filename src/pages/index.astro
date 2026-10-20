@@ -1,0 +1,28 @@
+---
+import Base from '../layouts/Base.astro';
+import Tabs from '../components/Tabs.astro';
+import StoryList from '../components/StoryList.astro';
+import site from '../data/site.json';
+import { getWorks, coverOf } from '../lib/works';
+
+const works = await getWorks();
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: site.title,
+  description: site.description,
+  url: site.url,
+  author: { '@type': 'Person', name: site.author },
+};
+---
+<Base description={site.description} image={works[0] ? coverOf(works[0]) : undefined} jsonLd={jsonLd}>
+  <section class="pub-head container">
+    <h1>{site.title}</h1>
+    <p>{site.tagline}</p>
+    <div class="by">{site.author}・AI 影像系列</div>
+  </section>
+  <Tabs />
+  <div class="container">
+    <StoryList works={works} featureFirst />
+  </div>
+</Base>

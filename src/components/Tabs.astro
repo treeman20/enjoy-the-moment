@@ -1,0 +1,11 @@
+---
+import site from '../data/site.json';
+interface Props { current?: string }
+const { current } = Astro.props;
+---
+<nav class="tabs container" aria-label="分類">
+  <a href="/" class={!current ? 'on' : ''}>全部</a>
+  {site.categories.map((c) => (
+    <a href={`/category/${encodeURIComponent(c)}/`} class={current === c ? 'on' : ''}>{c}</a>
+  ))}
+</nav>

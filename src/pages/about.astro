@@ -1,0 +1,14 @@
+---
+import Base from '../layouts/Base.astro';
+import site from '../data/site.json';
+const paras = site.about.split(/\n\s*\n/);
+---
+<Base title="關於" description={`關於 ${site.author} 與 ${site.title}`}>
+  <section class="about column">
+    <h1>關於</h1>
+    <div class="prose">
+      {paras.map((p) => <p>{p}</p>)}
+      <p>— {site.author}</p>
+    </div>
+  </section>
+</Base>

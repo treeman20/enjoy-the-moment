@@ -1,0 +1,27 @@
+---
+import Base from '../../layouts/Base.astro';
+import Tabs from '../../components/Tabs.astro';
+import StoryList from '../../components/StoryList.astro';
+import site from '../../data/site.json';
+import { getWorks } from '../../lib/works';
+
+export async function getStaticPaths() {
+  const works = await getWorks();
+  const names = new Set<string>([...site.categories, ...works.map((w) => w.data.category).filter(Boolean) as string[]]);
+  return [...names].map((name) => ({
+    params: { name },
+    props: { name, works: works.filter((w) => w.data.category === name) },
+  }));
+}
+const { name, works } = Astro.props;
+---
+<Base title={name} description={`${site.title}「${name}」分類下的 AI 影像系列，共 ${works.length} 篇。`}>
+  <section class="pub-head container">
+    <h1>{name}</h1>
+    <p>{works.length} 個系列</p>
+  </section>
+  <Tabs current={name} />
+  <div class="container">
+    <StoryList works={works} />
+  </div>
+</Base>
