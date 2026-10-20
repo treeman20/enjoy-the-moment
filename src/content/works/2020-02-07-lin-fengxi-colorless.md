@@ -3,53 +3,53 @@ title: "「無色」林逢熙作品展"
 date: 2020-02-07
 category: 春泥圖輯
 summary: "在我手上一座山過去了，一朵雲過去了，一朵花過去了…"
-cover: https://miro.medium.com/v2/resize:fit:1600/1*Ywvh_rthC5Jt8Ne-nLWtEQ.jpeg
+cover: /media/works/2020-02-07-lin-fengxi-colorless/01.webp
 draft: false
 gallery:
-  - https://miro.medium.com/v2/resize:fit:1600/1*Ywvh_rthC5Jt8Ne-nLWtEQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*lr6fA_XAA7kOcP1BRnSmbw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*yqHzYCIh2qN3bYTKiEvpSw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*TTx-ci5MpMvy1xsyTd71kw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*6KXYEXTSDW9Y1oo6xsdWnQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*7NYRqr-Yber0aec5j4FWEA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*58AqYvZ-DzvtaBeyEL-WUw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*7I5AgbUzoz3_7UzJ-jghXA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*CN_ZKcwFD5A3bd-7Xo6iPw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*ep6NS7J1e1hVGNGfU34BWA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*PKHMYFg5ieXsn3OLFJmSGg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*8B17kSgdepJqAv1KxSpzKQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*HGZa7uQhe24NFxRpCHewSw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*75Eqz25mMIXI2wQMccSJuQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*8_eJhAQxcFFCLm4PgQ4Pgg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*ZGxyNiDrpgnMhb9CITyieg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*RYkamasOCkc-UZcV4Xj1zg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*fAujknuiBlP0ci3Pr-MKgw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*xLSFC5ascEI3k99kbKGyBw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*pJSaL_0h0Tq3U45sKIKmsg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*3_QsA_QmmznvpBR00ldfsg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*TQy-FUtnbYUdMKxusB-EsA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*0xBHEkGLSi1QmL7-C-Kedw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*4WJlXVrf-74OH5owfcydog.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*c4o-fAcobINP1Li4KYl1Gw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*RVDu9rEF2kr3oak8TUa20A.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*FIl7APNhtUVljONn-vhYkA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*C9IQlk_ULZa8eSutDeNI3Q.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*d18ziEwcZ69oz4qSCNeXtw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*XcAN-Z2gGGCldHMzgSidhg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*mmoTnoFekSfTIGRq5pBRSA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*G7cBhowGqaNcPEk2NMtwnw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*ksy8WzYkj4OyAgnI_FoSEQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*OK1TVe_ebGTePEAPn1Fm_w.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*xB6z1deEWvgsEag-s0WmTg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*Lkrin2hloVDg0ijxloza2w.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*ZzXkQvnlgKHg4Ao2h-JmHQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*xL8jUb49Q_0KPZksyrjP4Q.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*flMaQ_HykBQKUfoYRZCkdg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*RDalepv9jmKvWTSBT-ASfw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*oG4wftr5M_HluMj1reoYOA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*jAdR5GTheS6kfGv1ieAB3g.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*XBpc3otvVKwn8x2WmscZLw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*57pCfq2zvKtd1kXMIwBF3Q.jpeg
+  - /media/works/2020-02-07-lin-fengxi-colorless/01.webp
+  - /media/works/2020-02-07-lin-fengxi-colorless/02.webp
+  - /media/works/2020-02-07-lin-fengxi-colorless/03.webp
+  - /media/works/2020-02-07-lin-fengxi-colorless/04.webp
+  - /media/works/2020-02-07-lin-fengxi-colorless/05.webp
+  - /media/works/2020-02-07-lin-fengxi-colorless/06.webp
+  - /media/works/2020-02-07-lin-fengxi-colorless/07.webp
+  - /media/works/2020-02-07-lin-fengxi-colorless/08.webp
+  - /media/works/2020-02-07-lin-fengxi-colorless/09.webp
+  - /media/works/2020-02-07-lin-fengxi-colorless/10.webp
+  - /media/works/2020-02-07-lin-fengxi-colorless/11.webp
+  - /media/works/2020-02-07-lin-fengxi-colorless/12.webp
+  - /media/works/2020-02-07-lin-fengxi-colorless/13.webp
+  - /media/works/2020-02-07-lin-fengxi-colorless/14.webp
+  - /media/works/2020-02-07-lin-fengxi-colorless/15.webp
+  - /media/works/2020-02-07-lin-fengxi-colorless/16.webp
+  - /media/works/2020-02-07-lin-fengxi-colorless/17.webp
+  - /media/works/2020-02-07-lin-fengxi-colorless/18.webp
+  - /media/works/2020-02-07-lin-fengxi-colorless/19.webp
+  - /media/works/2020-02-07-lin-fengxi-colorless/20.webp
+  - /media/works/2020-02-07-lin-fengxi-colorless/21.webp
+  - /media/works/2020-02-07-lin-fengxi-colorless/22.webp
+  - /media/works/2020-02-07-lin-fengxi-colorless/23.webp
+  - /media/works/2020-02-07-lin-fengxi-colorless/24.webp
+  - /media/works/2020-02-07-lin-fengxi-colorless/25.webp
+  - /media/works/2020-02-07-lin-fengxi-colorless/26.webp
+  - /media/works/2020-02-07-lin-fengxi-colorless/27.webp
+  - /media/works/2020-02-07-lin-fengxi-colorless/28.webp
+  - /media/works/2020-02-07-lin-fengxi-colorless/29.webp
+  - /media/works/2020-02-07-lin-fengxi-colorless/30.webp
+  - /media/works/2020-02-07-lin-fengxi-colorless/31.webp
+  - /media/works/2020-02-07-lin-fengxi-colorless/32.webp
+  - /media/works/2020-02-07-lin-fengxi-colorless/33.webp
+  - /media/works/2020-02-07-lin-fengxi-colorless/34.webp
+  - /media/works/2020-02-07-lin-fengxi-colorless/35.webp
+  - /media/works/2020-02-07-lin-fengxi-colorless/36.webp
+  - /media/works/2020-02-07-lin-fengxi-colorless/37.webp
+  - /media/works/2020-02-07-lin-fengxi-colorless/38.webp
+  - /media/works/2020-02-07-lin-fengxi-colorless/39.webp
+  - /media/works/2020-02-07-lin-fengxi-colorless/40.webp
+  - /media/works/2020-02-07-lin-fengxi-colorless/41.webp
+  - /media/works/2020-02-07-lin-fengxi-colorless/42.webp
+  - /media/works/2020-02-07-lin-fengxi-colorless/43.webp
+  - /media/works/2020-02-07-lin-fengxi-colorless/44.webp
 ---
 在高雄阿蓮「坐看雲起時」舉辦的林逢熙作品展，由杜幸蓉老師策展，帶領了南部一組茶人展開。
 

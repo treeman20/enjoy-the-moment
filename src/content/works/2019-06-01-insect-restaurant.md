@@ -3,19 +3,19 @@ title: "蕉埔昆蟲餐廳，限量！"
 date: 2019-06-01
 category: 春泥圖輯
 summary: "感覺上，我中的楊梅好像是種給昆蟲吃的！"
-cover: https://miro.medium.com/v2/resize:fit:1600/1*MwcqaY16qPRPSZoP9KDGWw.jpeg
+cover: /media/works/2019-06-01-insect-restaurant/01.webp
 draft: false
 gallery:
-  - https://miro.medium.com/v2/resize:fit:1600/1*MwcqaY16qPRPSZoP9KDGWw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*O9p8j8zJKku0pmll9cro_Q.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*SfOTfO7qtxTQCp4W6iTdaA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*q6HpyMs92bJppTh2z_azJQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*DGhf0C5F9wGu4EtCowiFnA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*nXpSsvetlEBnSo7gyG7RTw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*O92QKYivZkzGBaBEf7z-hA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*ltMyC65s8KkKwAT-B84u1Q.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*EzACsZbcqYWixsG5C3dcHA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*ItzdIBmSWOss-M3AtrlRPg.jpeg
+  - /media/works/2019-06-01-insect-restaurant/01.webp
+  - /media/works/2019-06-01-insect-restaurant/02.webp
+  - /media/works/2019-06-01-insect-restaurant/03.webp
+  - /media/works/2019-06-01-insect-restaurant/04.webp
+  - /media/works/2019-06-01-insect-restaurant/05.webp
+  - /media/works/2019-06-01-insect-restaurant/06.webp
+  - /media/works/2019-06-01-insect-restaurant/07.webp
+  - /media/works/2019-06-01-insect-restaurant/08.webp
+  - /media/works/2019-06-01-insect-restaurant/09.webp
+  - /media/works/2019-06-01-insect-restaurant/10.webp
 ---
 今年（2019)真的不太一樣，楊梅產量少得可憐，一成熟就被各式昆蟲啃食，今年我應該是為昆蟲種的吧？
 

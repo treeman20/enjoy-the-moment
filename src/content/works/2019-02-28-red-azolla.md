@@ -3,23 +3,23 @@ title: "紅，在晨光下"
 date: 2019-02-28
 category: 春泥圖輯
 summary: "滿江紅，在每個晨光，展現不同的樣貌…（2016–2018）"
-cover: https://miro.medium.com/v2/resize:fit:1600/1*PCAG9Ro5aCGglg5c9LXU6g.jpeg
+cover: /media/works/2019-02-28-red-azolla/01.webp
 draft: false
 gallery:
-  - https://miro.medium.com/v2/resize:fit:1600/1*PCAG9Ro5aCGglg5c9LXU6g.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*jdf4R_eMsiYsn8zCwP296Q.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*GJlxIeyvyWc8vXxvUuBqJw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*HzzP82x45cu_igyUlaYxTQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*p5QMpmZt_n7YxCSeT5MmFA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*kTVpGPJFXp2uio2QyIWDng.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*sAMRNC57C8eWVjySTuHCng.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*GTUCitIUit-nH4AvPTOgwg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*EwrHLJWkjzyT2cz2ttu2jw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*-Gkn7Dy7CeaXoKO5ikH70g.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*uUDjVc_c4C_HHBrKgm6j7Q.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*b8LWqDmFxf563vvLKpdQsQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*qz0DRf4fpjvIy6SqIizGQA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*DucKQ9ben1a35I4LtvbMUA.jpeg
+  - /media/works/2019-02-28-red-azolla/01.webp
+  - /media/works/2019-02-28-red-azolla/02.webp
+  - /media/works/2019-02-28-red-azolla/03.webp
+  - /media/works/2019-02-28-red-azolla/04.webp
+  - /media/works/2019-02-28-red-azolla/05.webp
+  - /media/works/2019-02-28-red-azolla/06.webp
+  - /media/works/2019-02-28-red-azolla/07.webp
+  - /media/works/2019-02-28-red-azolla/08.webp
+  - /media/works/2019-02-28-red-azolla/09.webp
+  - /media/works/2019-02-28-red-azolla/10.webp
+  - /media/works/2019-02-28-red-azolla/11.webp
+  - /media/works/2019-02-28-red-azolla/12.webp
+  - /media/works/2019-02-28-red-azolla/13.webp
+  - /media/works/2019-02-28-red-azolla/14.webp
 ---
 早上偏斜的光線角度，在池塘上拉出斜斜的樹影，豐富了在池塘上原本就讓人驚艷的滿江紅，帶著手機細細品味這台灣的冷天艷陽下的特別氣氛，這感覺像是紐約的深秋，也有日本嵐山的味道…
 

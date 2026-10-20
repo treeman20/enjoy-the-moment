@@ -3,20 +3,20 @@ title: "潭綠襯梅花"
 date: 2019-02-28
 category: 春泥圖輯
 summary: "好的容器，會讓你急著要幫他找內容…（2019年1月23日）"
-cover: https://miro.medium.com/v2/resize:fit:1600/1*T5WWdqBjLkBuLQFBPIVNrw.jpeg
+cover: /media/works/2019-02-28-plum-in-green-enamel/01.webp
 draft: false
 gallery:
-  - https://miro.medium.com/v2/resize:fit:1600/1*T5WWdqBjLkBuLQFBPIVNrw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*cul0zSj6p1sJ9M7CezP1ug.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*OBEJ7fW5qQqcbMO4MrNcWQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*B6Bo4_g9f6nDZTb02RY_tA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*ddv4LOjuaPM5oN6_ZqAh6Q.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*NXoZMdwt6jqbZpTDPIFXAg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*45m1m4O8YsHFW3ijMVPPUQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*ol_hQgkHIKt09ERUrKIdjw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*YbieMcAhLXnAi4JFt6xVtg.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*mOBjRJRxvmBMhtbSb_ly3g.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*Denge4_q7GY07yxfPeZ8RQ.jpeg
+  - /media/works/2019-02-28-plum-in-green-enamel/01.webp
+  - /media/works/2019-02-28-plum-in-green-enamel/02.webp
+  - /media/works/2019-02-28-plum-in-green-enamel/03.webp
+  - /media/works/2019-02-28-plum-in-green-enamel/04.webp
+  - /media/works/2019-02-28-plum-in-green-enamel/05.webp
+  - /media/works/2019-02-28-plum-in-green-enamel/06.webp
+  - /media/works/2019-02-28-plum-in-green-enamel/07.webp
+  - /media/works/2019-02-28-plum-in-green-enamel/08.webp
+  - /media/works/2019-02-28-plum-in-green-enamel/09.webp
+  - /media/works/2019-02-28-plum-in-green-enamel/10.webp
+  - /media/works/2019-02-28-plum-in-green-enamel/11.webp
 ---
 上週，補拍婉萍的工作畫面，看見一旁的這只銅胎琺瑯作品，層次豐富的綠，帶有一抹如陽光般燦爛的金，美極！看到後腦海就有一個盛水飄梅瓣的畫面在腦海，當下就跟婉萍講我要收這件，婉萍驚訝的說，我在學校的創作展就有這件啊！
 

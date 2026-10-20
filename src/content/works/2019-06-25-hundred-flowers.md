@@ -3,24 +3,24 @@ title: "名為百花，實為千朵。"
 date: 2019-06-25
 category: 春泥圖輯
 summary: "操作過程是重要的，不預期元素加入會產出新意。"
-cover: https://miro.medium.com/v2/resize:fit:1600/1*81AWT9xAjC_s9cASHSqhuA.jpeg
+cover: /media/works/2019-06-25-hundred-flowers/01.webp
 draft: false
 gallery:
-  - https://miro.medium.com/v2/resize:fit:1600/1*81AWT9xAjC_s9cASHSqhuA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*-YI1IvmZwSNhEhgZ8pN58g.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*LhykEVMyiTSi05o6fZdFxQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*n08I8to2OF79LtU6iscRUA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*J_U2nPUuPWFEikc92DtoIQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*G1coD1WSb0Qd4kfuWOFEFA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*evpa5Emz-u4IlU4TDYxKZw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*T0MGOkIe8gFDK2ci6_jqMA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*QI4uXokix_5yl6KBRyrkZA.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*OGww1RlQqPoFhIW8D5tIvQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*APUWcHVwb8Fd_bOWV9sYMQ.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*W2JvX5mOEKazBiN4SbkOHw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*KtyNIYrhuKqiirkxgFvKzw.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*QEZLt84QpQH9jg_C5t6o4A.jpeg
-  - https://miro.medium.com/v2/resize:fit:1600/1*_0L2XD76bNf65Fpg0R7C_w.jpeg
+  - /media/works/2019-06-25-hundred-flowers/01.webp
+  - /media/works/2019-06-25-hundred-flowers/02.webp
+  - /media/works/2019-06-25-hundred-flowers/03.webp
+  - /media/works/2019-06-25-hundred-flowers/04.webp
+  - /media/works/2019-06-25-hundred-flowers/05.webp
+  - /media/works/2019-06-25-hundred-flowers/06.webp
+  - /media/works/2019-06-25-hundred-flowers/07.webp
+  - /media/works/2019-06-25-hundred-flowers/08.webp
+  - /media/works/2019-06-25-hundred-flowers/09.webp
+  - /media/works/2019-06-25-hundred-flowers/10.webp
+  - /media/works/2019-06-25-hundred-flowers/11.webp
+  - /media/works/2019-06-25-hundred-flowers/12.webp
+  - /media/works/2019-06-25-hundred-flowers/13.webp
+  - /media/works/2019-06-25-hundred-flowers/14.webp
+  - /media/works/2019-06-25-hundred-flowers/15.webp
 captions: "水芹菜的花\n錫蘭接骨木的花"
 ---
 2018年五月，為了要幫一罐「百花蜜」拍情境照，開始尋找適合的陪襯植物，但五月天，在台灣算是炎熱的，除了咸豐草的花隨時開，其他多數的植物都已在春天開過花，也都正處結果狀態，頗煞腦筋。一般蜂蜜在春天採集後，會送蜂蜜加工廠處理，讓它的水分含量控制在百分之十九，同時也會在裝瓶前送農藥檢驗，所以這些程序跑完後，當年生產的蜂蜜會在四五月時上市，在上市前要完成情境照，在尋覓了一些植物開花狀態，發現朋友送的錫蘭接骨木正值花季，小白花滿開一欉一欉，在青翠的綠葉襯多下更顯清新！
