@@ -1,7 +1,8 @@
 ---
+import site from '../data/site.json';
 import { coverOf, formatDate, isoDate, plainExcerpt, type Work } from '../lib/works';
-interface Props { works: Work[]; featureFirst?: boolean }
-const { works, featureFirst = false } = Astro.props;
+interface Props { works: Work[]; featureFirst?: boolean; showCategory?: boolean }
+const { works, featureFirst = true, showCategory = true } = Astro.props;
 const [first, ...rest] = works;
 const list = featureFirst ? rest : works;
 ---
@@ -9,38 +10,42 @@ const list = featureFirst ? rest : works;
   {works.length === 0 && <p class="empty">這裡還沒有作品。</p>}
 
   {featureFirst && first && (
-    <a class="featured" href={`/works/${first.id}/`}>
-      {coverOf(first) && (
-        <div class="thumb"><img src={coverOf(first)} alt={first.data.title} loading="eager" /></div>
-      )}
-      <div class="story" style="display:block;padding:0;border:0">
-        <div class="meta">
-          {first.data.category && <span class="cat">{first.data.category}</span>}
-          {first.data.category && <span>·</span>}
-          <time datetime={isoDate(first.data.date)}>{formatDate(first.data.date)}</time>
-        </div>
+    <a class="lead" href={`/works/${first.id}/`}>
+      <div class="thumb">
+        {coverOf(first) && <img src={coverOf(first)} alt={first.data.title} loading="eager" />}
+      </div>
+      <div class="body">
+        {showCategory && first.data.category && <div class="cat">{first.data.category}</div>}
         <h2>{first.data.title}</h2>
         <p>{plainExcerpt(first, 140)}</p>
-        {first.data.images?.length ? <div class="count">{first.data.images.length} 張影像</div> : null}
+        <div class="meta">
+          <span>{site.author}</span>
+          <span>·</span>
+          <time datetime={isoDate(first.data.date)}>{formatDate(first.data.date)}</time>
+          {first.data.images?.length ? <><span>·</span><span>{first.data.images.length} 張影像</span></> : null}
+        </div>
       </div>
     </a>
   )}
 
-  {list.map((w) => (
-    <a class="story" href={`/works/${w.id}/`}>
-      <div>
-        <div class="meta">
-          {w.data.category && <span class="cat">{w.data.category}</span>}
-          {w.data.category && <span>·</span>}
-          <time datetime={isoDate(w.data.date)}>{formatDate(w.data.date)}</time>
-        </div>
-        <h2>{w.data.title}</h2>
-        <p>{plainExcerpt(w)}</p>
-        {w.data.images?.length ? <div class="count">{w.data.images.length} 張影像</div> : null}
-      </div>
-      <div class="thumb">
-        {coverOf(w) && <img src={coverOf(w)} alt={w.data.title} loading="lazy" />}
-      </div>
-    </a>
-  ))}
+  {list.length > 0 && (
+    <div class="cards">
+      {list.map((w) => (
+        <a class="card" href={`/works/${w.id}/`}>
+          <div class="thumb">
+            {coverOf(w) && <img src={coverOf(w)} alt={w.data.title} loading="lazy" decoding="async" />}
+          </div>
+          {showCategory && w.data.category && <div class="cat">{w.data.category}</div>}
+          <h3>{w.data.title}</h3>
+          <p>{plainExcerpt(w)}</p>
+          <div class="meta">
+            <span>{site.author}</span>
+            <span>·</span>
+            <time datetime={isoDate(w.data.date)}>{formatDate(w.data.date)}</time>
+            {w.data.images?.length ? <><span>·</span><span>{w.data.images.length} 張</span></> : null}
+          </div>
+        </a>
+      ))}
+    </div>
+  )}
 </div>
