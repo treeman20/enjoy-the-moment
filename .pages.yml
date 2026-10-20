@@ -36,7 +36,7 @@ content:
         type: select
         description: 想新增分類？到「網站設定」加上名稱，並請 Claude 幫你同步這裡的選項。
         options:
-          values: [春泥圖輯, 心靈容器, 閱讀脈絡, 靈光浮塵, 水積成川]
+          values: [春泥圖輯, 心靈容器, 閱讀脈絡, 靈光浮塵, 水積成川, AIGC作品]
       - name: summary
         label: 一句話副標
         type: string
