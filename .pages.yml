@@ -1,0 +1,101 @@
+# Pages CMS 後台設定（https://app.pagescms.org 登入後即可使用）
+media:
+  input: public/media
+  output: /media
+  extensions: [jpg, jpeg, png, webp, gif, avif]
+  rename: safe
+
+content:
+  - name: works
+    label: 作品系列
+    type: collection
+    path: src/content/works
+    format: yaml-frontmatter
+    filename:
+      template: "{year}-{month}-{day}-{hour}{minute}.md"
+      field: create
+    view:
+      fields: [title, date, category, draft]
+      primary: title
+      sort: [date, title]
+      search: [title, summary]
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: title
+        label: 系列主題
+        type: string
+        required: true
+      - name: date
+        label: 日期
+        type: date
+        required: true
+      - name: category
+        label: 分類
+        type: select
+        description: 想新增分類？到「網站設定」加上名稱，並請 Claude 幫你同步這裡的選項。
+        options:
+          values: [春泥圖輯, 心靈容器, 閱讀脈絡, 靈光浮塵, 水積成川]
+      - name: summary
+        label: 一句話副標
+        type: string
+        description: 顯示在標題下方，也是 Google 搜尋結果裡的摘要。
+      - name: gallery
+        label: 作品影像（可一次選多張）
+        type: image
+        description: 依你想要的順序排列。建議每張先壓縮到 500KB 以內（寬 1600px 的 JPG 或 WebP）。
+        options:
+          path: public/media/works
+          multiple:
+            max: 40
+      - name: captions
+        label: 圖說（每行一則，依序對應上面的影像）
+        type: text
+        description: 第 1 行對應第 1 張，以此類推；某張不想寫圖說就留空行。
+      - name: cover
+        label: 封面（可不填，預設用第一張）
+        type: image
+        options:
+          path: public/media/works
+      - name: tools
+        label: 創作工具
+        type: string
+        description: 例如：Midjourney v7、Photoshop
+      - name: draft
+        label: 先存成草稿（不公開）
+        type: boolean
+        default: false
+      - name: body
+        label: 內容介紹
+        type: rich-text
+
+  - name: site
+    label: 網站設定
+    type: file
+    path: src/data/site.json
+    format: json
+    fields:
+      - name: title
+        label: 網站名稱
+        type: string
+      - name: tagline
+        label: 標語
+        type: string
+      - name: description
+        label: 網站介紹（給搜尋引擎看）
+        type: text
+      - name: author
+        label: 作者名稱
+        type: string
+      - name: url
+        label: 網站正式網址
+        type: string
+        description: 例如 https://enjoy-the-moment.pages.dev 或你自己的網域
+      - name: about
+        label: 「關於」頁內容
+        type: text
+      - name: categories
+        label: 分類（首頁上方的分頁）
+        type: string
+        list: true
