@@ -1,0 +1,76 @@
+---
+title: "柴房拾悅之茶席命名"
+date: 2019-10-21
+category: 水積成川
+summary: "依型態、依意義，也依歷史典故的命名發想"
+cover: https://miro.medium.com/v2/resize:fit:1600/1*9V9pTYGHl3GDzg5t8pkOTQ.jpeg
+draft: false
+gallery:
+  - https://miro.medium.com/v2/resize:fit:1600/1*9V9pTYGHl3GDzg5t8pkOTQ.jpeg
+  - https://miro.medium.com/v2/resize:fit:1600/1*-j3z2J8Ws8adcr2832cmbg.jpeg
+  - https://miro.medium.com/v2/resize:fit:1600/1*DY8kvhbY9GMlY8oGJCJYSQ.jpeg
+  - https://miro.medium.com/v2/resize:fit:1600/1*1-dqLuY5ya9w7aSYym9GHA.jpeg
+  - https://miro.medium.com/v2/resize:fit:1600/1*CiO8nzcmWEwNSRG7xV7IJw.jpeg
+  - https://miro.medium.com/v2/resize:fit:1600/1*XHukpql-zjOCIxaAsMzXOQ.jpeg
+  - https://miro.medium.com/v2/resize:fit:1600/1*55t4tUTGtUgpzpOz3VbcZw.jpeg
+  - https://miro.medium.com/v2/resize:fit:1600/1*XBRsMXObOWI84urhyl9Ndg.jpeg
+  - https://miro.medium.com/v2/resize:fit:1600/1*8FfmIPyckJaNFZ_26CIoPg.jpeg
+  - https://miro.medium.com/v2/resize:fit:1600/1*UedyouFfSZF3E4eErX1pAQ.jpeg
+  - https://miro.medium.com/v2/resize:fit:1600/1*2PN_EtMbnweiC3twW4b6IA.jpeg
+  - https://miro.medium.com/v2/resize:fit:1600/1*WRGBW7__H-jsOX1rNm3z0g.jpeg
+  - https://miro.medium.com/v2/resize:fit:1600/1*_95dQ3Bwari6aUnHIYCPcQ.jpeg
+  - https://miro.medium.com/v2/resize:fit:1600/1*LWipE5u_XtTco_VNiGPtSw.jpeg
+  - https://miro.medium.com/v2/resize:fit:1600/1*eebzw0KMUI1OaAInkfZ68w.jpeg
+  - https://miro.medium.com/v2/resize:fit:1600/1*DUtpK2WcERSd0xBlMTrI_w.jpeg
+  - https://miro.medium.com/v2/resize:fit:1600/1*Th-NKDMJ8RBLXPnlDutZfw.jpeg
+  - https://miro.medium.com/v2/resize:fit:1600/1*4PnCD7MayfFUwPgixst5Ow.jpeg
+  - https://miro.medium.com/v2/resize:fit:1600/1*SQAhPSsaVoLLgwtOSkSjzA.jpeg
+  - https://miro.medium.com/v2/resize:fit:1600/1*2K9bnKqPZ_bzBrxjD-XNiQ.jpeg
+  - https://miro.medium.com/v2/resize:fit:1600/1*WrEO5GWv55QSTPSmCthxfQ.jpeg
+  - https://miro.medium.com/v2/resize:fit:1600/1*jcVq2MwS6I2GUMKtRS9lcg.jpeg
+  - https://miro.medium.com/v2/resize:fit:1600/1*qziGsQXpflESUt0bhjojbg.jpeg
+  - https://miro.medium.com/v2/resize:fit:1600/1*5jojYAJWwgem8zmHfVlykg.jpeg
+  - https://miro.medium.com/v2/resize:fit:1600/1*rd-qPbhRLG8nKxX-mHS6cg.jpeg
+  - https://miro.medium.com/v2/resize:fit:1600/1*d7D3ymujjsF_DTdJ5JCV4w.jpeg
+---
+1.苦戀。苦楝是台灣很常見的木頭，在春天的時候會開滿灰紫色的小花；到秋天的時候，樹葉落盡，又會展現一串串黃色的小果實，是台灣常見的樹木，但就是因為名子取得不好聽，一般家裡不會種植這樣的樹木，苦楝還可以提煉它的樹汁，成為苦楝油，是一種環保的農藥，適用於有機栽培。  
+這次的苦楝材料來自台南鄉下，早期台南鄉下都會在家外旁種上一棵苦楝，等長大後，可以拿來做傢俱，可是這顆苦楝沒機會成為傢俱，因為樹的主人老阿伯，年紀太大了，不需要做什麼傢俱，卻因土地原址要蓋倉庫，所以苦楝被放倒，魏老師帶太太回娘家時有機會買到這樣的材料，做成桌子。  
+大桌下的黑色杉木住，則是在路剛路邊物色到的一根木料，因為早期長時間橫跨在鄉下廚房上，被柴火熏黑。
+
+2.相思。原樹種原相思木，但它不適結相思豆的那種相思樹。早期是製作木炭的材料，在台灣許多山區都還有製作炭火的窯坑，近年來因為這種樹的木材質地堅硬、色澤黝黑在木材資源缺乏的情況下已經有人以台灣黑檀相稱，並有系統地做收集。現在較粗直徑的相思木已經是可遇不可求。  
+這次魏老師用相思木為材，搭配桌子中間的檜木料，來做表現，中間的檜木料厚板，則是取材自早期熏菸樓的木料，中間有一排固定孔洞，已用木料修補，形成有趣的陣列小圓飾。
+
+3.鬼面。是台灣檜木的一種特有紋理，如激流下的水波亂紋，在木材買賣以及檜木蒐集的行家以鬼面相稱。在過去這種紋理的材料，因製作與加工較不容易所以不算高等木材。早期以直線無結的木材回最佳品項，但如今時空轉換大家均追求豐富的紋理變化的時候，成為奇貨可居的材料之一。
+
+4.雲林。台灣中南部的縣市名稱，在現在的印象下，雲林是一個比較鄉下，發展停留在農業的地方，甚至六輕落腳雲林造成當地空氣及環境污染嚴重。但是在一次的談話裡面，聽到有老師說雲林為什麼叫做雲林，是在幾百年前在台灣尚未開發時，從台灣海峽坐船的移民，在接近台灣時，往台灣的方向看去所看到的景象是雲的的下方是一整片的森林所以稱作雲林，非常有畫面的過去。今天我們很慚愧，雲林被經營幾百年之後變成如今這個模樣。
+
+5.諸羅。是台灣嘉義的古地名，它原意叫做諸山羅列，也就是因為這地方群山羅列的景觀而命名。在場有需多老的檜木板，都是從嘉義此地而來，因為嘉義在過去就是檜木產業的集散地，現在嘉義還有一個檜意生活村，展現過去的歷史。
+
+6.鳥絕。相信坐在鳥絕的客人一定非常納悶，為什麼會再茶席上取一個不是這麼友善的名稱?其實是因為在過去伐木者的經驗中，會發現在檜木森林裡面，不容易看到鳥類，鳥類在這個區域似乎絕跡了，因為檜木的防蟲特性，讓鳥在此地找不著食物，所以檜木林有「鳥絕」之稱。
+
+7.凝望。其實講的是龍眼木的材料，但如果命名為龍眼，會讓大家聯想到甜甜蜜蜜的花蜜與龍眼果實。但這種台灣常木，卻在我們的周遭環境很常見，所以轉換一下，將龍眼的名字轉換成「凝望」。龍眼木是一個質地非常堅硬的木頭，也非常的重。除了生產龍眼之外，龍眼木也作為木炭與材燒的重要木種，是材燒陶器時能夠穩定火源溫度的材料，品質較佳的龍眼木炭，也在許多地方成為冬天作為保暖火爐的燃燒材料，因為煙少且續火力佳。  
+在一些地方家裡要放一些龍眼木傢俱，有圓滿之意。  
+這次用的龍眼木，是用台灣土龍眼木，龍眼果實較較小，在生長時會以扭曲之態生長，所以龍眼木切開時，會產生漂亮的折花！  
+這次用的龍眼木是魏老師老家的龍眼木，在其祖母嫁入魏家時，這棵龍眼木就已經是直挺挺的長在魏家後院，有五層樓高！颱風吹倒後，還壓垮一間房子，因為這是屬於魏家的家族記憶！是這次展覽唯一訂不出價格的一張茶桌！
+
+8.相聚，其名稱取為香聚，因為在這次展演的桌子中多為台灣常木，其餘均為台灣高級木種像是台灣紅檜、黃檜與梢楠，這些台灣珍貴樹木均由其獨特香味，因為這些味道匯集在此，所以相聚就成為我們今天的茶席名稱，也暗喻我們的活動，有集合各方聚合的意思。
+
+9.千年。我們用的是梢楠桌板，這種珍貴的台灣樹木，要能成材至少要數百年以上的歷史，因為生長緩慢，有些要長到千年以上。梢楠擁有獨特氣味，把梢楠磨成粉之後就成為香火的材料，也是唯一可以作為藥用的樹種。
+
+10.南湖。它位於大甲溪上游，南湖是山脈的名稱不是湖。南湖大山位於台灣的中央山脈主稜線北段，在太魯閣國家公園，屬台中市和平區，海拔3,742公尺。大甲溪是台灣梢楠漂流木的重要產區，這意味著南湖也就是梢楠的群聚山區。
+
+11.迴盪。以木紋型態命名，這是台灣檜木特有的紋路之一，如流水漩渦。
+
+12.流水。以木紋型態命名。在台灣檜木中因為生長環境的艱困，所以在樹木的成長過程中，會有很多因為支撐樹木生長的組織發展，形成木材在紋理上的豐富變化。因此，有許多如流水般的流動紋路與漩渦紋路。
+
+13.鳳尾。鳳尾是當代台灣檜木市場炒作上最強手的木頭紋路表現，形成鳳尾紋路主要的原因有兩項，第一來自於樹木在成長過程當中的轉折處，像是樹枝分岔與樹根扭轉的位置會產生閃花般的光澤與紋路，如鳥類的羽毛上的閃花。另一則來至於樹木在成長過程中受到傷害或感染，在自癒的過程當中，延展成為樹瘤，在樹瘤的內部，就會有各式各樣的閃花語扭轉紋路的發生，當然在其他樹種也會有其狀況，但因為台灣檜木的稀有性，所以這樣的表現能在市場上能在極高的價格。
+
+這次我我們各茶席題字的是書法家胡知竹女士。
+
+參與者回饋：  
+1.[王靖惠](https://www.facebook.com/chinghui.wang) 第一眼看到「千年」，有莫名的感動。切割痕在肖楠木的平面上劃出波光淋漓，樸實的棕色顯得溫暖柔和，透出清幽的香氣，心領神往之際，忍不住要伸手撫摸，果然溫潤深厚，讓人ㄧ下子就愛上他。  
+在佈席時，意外的順利，拿著連炳龍老師製作的茶具，隨意擺置便渾然成型，氛圍平和寧靜；尤其進行到第二席時，熟識的以德會長和趙老師夫人輕聲閒談之間，彷彿就在老肖楠樹下與好友聊天泡茶ㄧ般自然親切。  
+感謝趙老師以及柴房拾悅的所有工作人員及同學，這麼努力的籌備而成就ㄧ切美好。展覽還有五天，ㄧ定要呼朋引伴來看展，並和「千年」好好喝個茶喔。
+
+[2.Tamaki Nina](https://www.facebook.com/tamaki.nina) 其實昨天坐在鳥絕，特別喜歡這個名字，想到千山鳥飛絕，這首我很喜愛的詩，這棵樹在那樣清寂的山林隱身在不知年月的時光中，孤獨而高傲，因為它的堅實和特有的香氣，彌足珍貴！因而拍下這方鳥絕贈木，得後欣喜不已^\_^  
+趙老師多慮了呵呵～ 鳥絕的萬壑千山深林 對攝影人 是多麼壯闊的景阿～豈有不舒服之感

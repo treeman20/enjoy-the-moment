@@ -14,7 +14,7 @@ for (const file of files) {
   let text = await readFile(full, 'utf8');
   const fm = text.match(/^---\n([\s\S]*?)\n---/);
   if (!fm) continue;
-  const urls = [...new Set([...fm[1].matchAll(/https?:\/\/[^\s"']+\.(?:jpe?g|png|gif|webp|avif)/gi)].map((m) => m[0]))];
+  const urls = [...new Set([...fm[1].matchAll(/https?:\/\/miro\.medium\.com\/[^\s"']+|https?:\/\/[^\s"']+\.(?:jpe?g|png|gif|webp|avif)/gi)].map((m) => m[0]))];
   if (!urls.length) continue;
 
   const stem = file.replace(/\.md$/, '');
