@@ -55,7 +55,7 @@ draft: false
 
 當你開始用 AI 創作，你會開始追問：這是真的嗎？還是某種敘事？是歷史，還是解釋？**創作，變成重新思考歷史的方式。**
 
-<div class="listen"><a href="https://suno.com/s/fBDc6XaSh50Piazy" target="_blank" rel="noopener">她們先被寫成錯</a></div>
+<div class="listen"><a href="https://suno.com/s/fBDc6XaSh50Piazy" target="_blank" rel="noopener">《她們先被寫成錯》</a></div>
 
 <details>
 <summary>展開歌詞：她們先被寫成錯</summary>
@@ -106,7 +106,7 @@ draft: false
 
 接著發生了一件很驚人的事：他開始重新看待自己的人生。他並不避諱談自己的躁鬱症，對他來說，現在的創作是一種心境的轉變，也是繼續前進的動能，成了他人生中很重要的事。**AI 讓人開始和自己對話。**
 
-<div class="listen"><a href="https://suno.com/s/AoFHEnqCdbwGpXMU" target="_blank" rel="noopener">朋友的歌（一）</a><a href="https://suno.com/s/Qb1oVqXXvIZncIzB" target="_blank" rel="noopener">朋友的歌（二）</a></div>
+<div class="listen"><a href="https://suno.com/s/AoFHEnqCdbwGpXMU" target="_blank" rel="noopener">《孤狼》</a><a href="https://suno.com/s/Qb1oVqXXvIZncIzB" target="_blank" rel="noopener">朋友的另一首歌</a></div>
 
 ## 文化角色被「活化」
 
@@ -114,7 +114,7 @@ draft: false
 
 李清照也是，不只是詞，更是人生。我甚至感動到想：如果可以穿越時空，我想見她。
 
-<div class="listen"><a href="https://suno.com/s/4Wxx2uqyp5KlIFkW" target="_blank" rel="noopener">寫給李清照</a></div>
+<div class="listen"><a href="https://suno.com/s/4Wxx2uqyp5KlIFkW" target="_blank" rel="noopener">《眉間到心上。李清照》</a></div>
 
 > AI 讓文化，從知識變成關係。
 
@@ -125,7 +125,7 @@ draft: false
 - **一個品牌有自己的歌**
 - **一個理念可以被唱出來**
 
-<div class="listen"><a href="https://suno.com/s/H9GNGMPquLme16aB" target="_blank" rel="noopener">一個品牌有自己的歌</a><a href="https://suno.com/s/iqlwJv49ACMky8Ab" target="_blank" rel="noopener">一個理念可以被唱出來</a></div>
+<div class="listen"><a href="https://suno.com/s/H9GNGMPquLme16aB" target="_blank" rel="noopener">《華韻紀元》</a><a href="https://suno.com/s/iqlwJv49ACMky8Ab" target="_blank" rel="noopener">一個理念可以被唱出來</a></div>
 
 - **一個地方有自己的聲音**
 
