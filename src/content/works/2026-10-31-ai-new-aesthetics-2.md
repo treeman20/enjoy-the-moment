@@ -106,7 +106,7 @@ draft: false
 
 接著發生了一件很驚人的事：他開始重新看待自己的人生。他並不避諱談自己的躁鬱症，對他來說，現在的創作是一種心境的轉變，也是繼續前進的動能，成了他人生中很重要的事。**AI 讓人開始和自己對話。**
 
-<div class="listen"><a href="https://suno.com/s/AoFHEnqCdbwGpXMU" target="_blank" rel="noopener">《孤狼》</a><a href="https://suno.com/s/Qb1oVqXXvIZncIzB" target="_blank" rel="noopener">朋友的另一首歌</a></div>
+<div class="listen"><a href="https://suno.com/s/AoFHEnqCdbwGpXMU" target="_blank" rel="noopener">《孤狼》</a><a href="https://suno.com/s/Qb1oVqXXvIZncIzB" target="_blank" rel="noopener">《伯樂，原來就是我自己》</a></div>
 
 ## 文化角色被「活化」
 
@@ -125,7 +125,7 @@ draft: false
 - **一個品牌有自己的歌**
 - **一個理念可以被唱出來**
 
-<div class="listen"><a href="https://suno.com/s/H9GNGMPquLme16aB" target="_blank" rel="noopener">《華韻紀元》</a><a href="https://suno.com/s/iqlwJv49ACMky8Ab" target="_blank" rel="noopener">一個理念可以被唱出來</a></div>
+<div class="listen"><a href="https://suno.com/s/H9GNGMPquLme16aB" target="_blank" rel="noopener">《華韻紀元》</a><a href="https://suno.com/s/iqlwJv49ACMky8Ab" target="_blank" rel="noopener">《光在核心》</a></div>
 
 - **一個地方有自己的聲音**
 
