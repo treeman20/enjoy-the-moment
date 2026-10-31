@@ -1,7 +1,7 @@
 ---
 title: "透過設計， 展現影像價值…"
 date: 2019-03-09
-category: 靈光浮塵
+category: 水積成川
 summary: "2017年近專攝影課教學成果"
 cover: /media/works/2019-03-09-design-and-image-value/01.webp
 draft: false

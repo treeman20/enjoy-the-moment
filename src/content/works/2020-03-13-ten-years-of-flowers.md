@@ -1,7 +1,7 @@
 ---
 title: "喔，這花種十年了！"
 date: 2020-03-13
-category: 靈光浮塵
+category: 春泥圖輯
 summary: "看到的不只是浪漫的紫花，更有簡單卻有效的策略。"
 cover: /media/works/2020-03-13-ten-years-of-flowers/01.webp
 draft: false

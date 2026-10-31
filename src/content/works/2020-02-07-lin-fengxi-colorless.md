@@ -1,7 +1,7 @@
 ---
 title: "「無色」林逢熙作品展"
 date: 2020-02-07
-category: 春泥圖輯
+category: 閱讀脈絡
 summary: "在我手上一座山過去了，一朵雲過去了，一朵花過去了…"
 cover: /media/works/2020-02-07-lin-fengxi-colorless/01.webp
 draft: false

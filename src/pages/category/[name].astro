@@ -3,6 +3,7 @@ import Base from '../../layouts/Base.astro';
 import Tabs from '../../components/Tabs.astro';
 import StoryList from '../../components/StoryList.astro';
 import site from '../../data/site.json';
+import cats from '../../data/categories.json';
 import { getWorks } from '../../lib/works';
 
 export async function getStaticPaths() {
@@ -14,11 +15,13 @@ export async function getStaticPaths() {
   }));
 }
 const { name, works } = Astro.props;
+const note = cats.notes.find((c) => c.name === name)?.note;
 ---
-<Base title={name} description={`${site.title}「${name}」分類下的攝影與AI創作系列，共 ${works.length} 篇。`}>
+<Base title={name} description={note ? `${name}｜${note}` : `${site.title}「${name}」分類下的攝影與AI創作系列，共 ${works.length} 篇。`}>
   <section class="pub-head container">
     <h1>{name}</h1>
-    <p>{works.length} 個系列</p>
+    {note && <p class="cat-note">{note}</p>}
+    <p>{works.length} 篇</p>
   </section>
   <Tabs current={name} />
   <div class="container">

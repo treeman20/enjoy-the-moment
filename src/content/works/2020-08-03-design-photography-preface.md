@@ -1,7 +1,7 @@
 ---
 title: "2000年「設計攝影」前言"
 date: 2020-08-03
-category: 閱讀脈絡
+category: 水積成川
 summary: "一本試著豐富設計系攝影教學內容的出版物"
 cover: /media/works/2020-08-03-design-photography-preface/01.webp
 draft: false

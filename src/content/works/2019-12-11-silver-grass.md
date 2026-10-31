@@ -1,7 +1,7 @@
 ---
 title: "芒草，僅讓它隨風搖曳？"
 date: 2019-12-11
-category: 靈光浮塵
+category: 春泥圖輯
 summary: "窗外美景流逝，年復一年？花開堪折，錯過、錯過，再錯過？"
 cover: /media/works/2019-12-11-silver-grass/01.webp
 draft: false

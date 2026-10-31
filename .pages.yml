@@ -114,3 +114,21 @@ content:
         label: 分類（首頁上方的分頁）
         type: string
         list: true
+
+  - name: categoryNotes
+    label: 分類說明
+    type: file
+    path: src/data/categories.json
+    format: json
+    fields:
+      - name: notes
+        label: 各分類的說明（顯示在分類頁標題下方）
+        type: object
+        list: true
+        fields:
+          - name: name
+            label: 分類名稱（要和網站設定裡的分類完全相同）
+            type: string
+          - name: note
+            label: 說明
+            type: text
