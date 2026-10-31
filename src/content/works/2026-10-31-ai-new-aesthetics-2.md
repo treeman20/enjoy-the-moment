@@ -27,7 +27,7 @@ draft: false
 
 我把一個神話角色，變成一種現代人的心理狀態：好強、容易受傷、常常與世界衝突。然後把這些丟給 AI，它變成了一首歌。
 
-<div class="listen"><a href="https://suno.com/s/Zj2hl7dDcrCZdbhF" target="_blank" rel="noopener">阿修羅之歌（一）</a><a href="https://suno.com/s/MZ0Pxw8gRPCgjSN4" target="_blank" rel="noopener">阿修羅之歌（二）</a></div>
+<div class="listen"><a href="https://suno.com/s/QI4DTgxfWe5F150A" target="_blank" rel="noopener">阿修羅戰歌</a><a href="https://suno.com/s/emg07DDNzUNWAggn" target="_blank" rel="noopener">阿修羅的悲歌</a></div>
 
 <div class="video"><iframe src="https://www.youtube-nocookie.com/embed/5glULcodWOI" title="YouTube 影片" loading="lazy" allowfullscreen></iframe></div>
 
@@ -100,11 +100,11 @@ draft: false
 
 ## 人開始重新理解自己
 
-我有一位朋友，是退休的董事長。他一輩子太認真工作，因此得了躁鬱症。年輕時書讀得少，創業後有空就讀書，但他有一個問題：他沒有出口。
+我有一位朋友，是退休的董事長。他一輩子太認真工作，因此得了躁鬱症。他年輕時在台南海事水產職業學校混日子，創業後覺得書讀得太少，有空就讀書。但他有一個問題：他沒有出口。
 
 2025 年四月，我送他一首 Suno 的歌。後來他開始學著用 GPT 整理想法，再請我用 Suno 把歌做出來。
 
-接著發生了一件很驚人的事：他開始重新看待自己的人生。**AI 讓人開始和自己對話。**
+接著發生了一件很驚人的事：他開始重新看待自己的人生。他並不避諱談自己的躁鬱症，對他來說，現在的創作是一種心境的轉變，也是繼續前進的動能，成了他人生中很重要的事。**AI 讓人開始和自己對話。**
 
 <div class="listen"><a href="https://suno.com/s/AoFHEnqCdbwGpXMU" target="_blank" rel="noopener">朋友的歌（一）</a><a href="https://suno.com/s/Qb1oVqXXvIZncIzB" target="_blank" rel="noopener">朋友的歌（二）</a></div>
 
