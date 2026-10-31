@@ -58,6 +58,21 @@ content:
         type: image
         options:
           path: public/media/works
+      - name: coverFocus
+        label: 封面裁切位置
+        type: select
+        description: 首頁封面是寬幅的。不選時，直式圖會自動從上方裁（保留人物臉部與上半身），橫式圖置中。
+        options:
+          placeholder: 自動
+          values:
+            - name: top
+              label: 最上方（人物頭部、頭飾）
+            - name: upper
+              label: 偏上（臉與上半身）
+            - name: center
+              label: 置中
+            - name: bottom
+              label: 下方
       - name: tools
         label: 創作工具
         type: string

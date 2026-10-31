@@ -10,6 +10,7 @@ const works = defineCollection({
     category: z.string().optional().nullable(),
     summary: z.string().optional().nullable(),
     cover: z.string().optional().nullable(),
+    coverFocus: z.string().optional().nullable(),
     tools: z.string().optional().nullable(),
     draft: z.boolean().optional().nullable().default(false),
     // 後台使用：一次上傳多張 + 每行一則圖說

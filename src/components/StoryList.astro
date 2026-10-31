@@ -1,10 +1,11 @@
 ---
 import site from '../data/site.json';
-import { coverOf, formatDate, isoDate, plainExcerpt, type Work } from '../lib/works';
+import { coverOf, coverPosition, formatDate, isoDate, plainExcerpt, type Work } from '../lib/works';
 interface Props { works: Work[]; featureFirst?: boolean; showCategory?: boolean }
 const { works, featureFirst = true, showCategory = true } = Astro.props;
 const [first, ...rest] = works;
 const list = featureFirst ? rest : works;
+const pos = new Map(await Promise.all(works.map(async (w) => [w.id, await coverPosition(w)] as const)));
 ---
 <div class="list">
   {works.length === 0 && <p class="empty">這裡還沒有作品。</p>}
@@ -12,7 +13,7 @@ const list = featureFirst ? rest : works;
   {featureFirst && first && (
     <a class="lead" href={`/works/${first.id}/`}>
       <div class="thumb">
-        {coverOf(first) && <img src={coverOf(first)} alt={first.data.title} loading="eager" />}
+        {coverOf(first) && <img src={coverOf(first)} alt={first.data.title} loading="eager" style={`object-position:${pos.get(first.id)}`} />}
       </div>
       <div class="body">
         {showCategory && first.data.category && <div class="cat">{first.data.category}</div>}
@@ -33,7 +34,7 @@ const list = featureFirst ? rest : works;
       {list.map((w) => (
         <a class="card" href={`/works/${w.id}/`}>
           <div class="thumb">
-            {coverOf(w) && <img src={coverOf(w)} alt={w.data.title} loading="lazy" decoding="async" />}
+            {coverOf(w) && <img src={coverOf(w)} alt={w.data.title} loading="lazy" decoding="async" style={`object-position:${pos.get(w.id)}`} />}
           </div>
           {showCategory && w.data.category && <div class="cat">{w.data.category}</div>}
           <h3>{w.data.title}</h3>
