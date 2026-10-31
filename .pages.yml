@@ -58,6 +58,17 @@ content:
         type: image
         options:
           path: public/media/works
+      - name: galleryLayout
+        label: 影像排列方式
+        type: select
+        description: 拼貼會依照片比例排成一張、兩張、三張一排（適合照片多的系列）；圖說很長時建議用一張一列。
+        options:
+          placeholder: 拼貼（預設）
+          values:
+            - name: mosaic
+              label: 拼貼（一張、兩張、三張一排）
+            - name: single
+              label: 一張一列
       - name: coverFocus
         label: 封面裁切位置
         type: select

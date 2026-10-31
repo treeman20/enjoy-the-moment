@@ -149,6 +149,17 @@ img { max-width: 100%; display: block; }
 
 .tools { font-size: 14px; color: var(--muted); margin: 8px 0 0; font-family: var(--sans); }
 
+/* mosaic: Medium 式拼貼，一張獨放、兩張並列、三張一排 */
+.mosaic { max-width: 1040px; margin: 48px auto 0; padding: 0 24px; }
+.mosaic .m-row { display: flex; gap: 10px; align-items: flex-start; margin: 0 auto 10px; }
+.mosaic .m-row:has(figcaption) { margin-bottom: 22px; }
+.mosaic figure { margin: 0; min-width: 0; }
+.mosaic button { all: unset; cursor: zoom-in; display: block; width: 100%; }
+.mosaic img { width: 100%; height: auto; display: block; background: var(--soft); transition: opacity .2s; }
+.mosaic button:hover img { opacity: .92; }
+.mosaic figcaption { font-size: 13px; color: var(--muted); margin-top: 8px; line-height: 1.55; text-align: center; }
+.mosaic .m-row.n1 figcaption { font-size: 14px; }
+
 /* gallery: Medium-style, one image per row, centred, some break wide */
 .gallery { margin: 48px auto 0; }
 .gallery figure { margin: 0 auto 56px; max-width: var(--col); padding: 0 24px; }
@@ -170,7 +181,7 @@ img { max-width: 100%; display: block; }
 /* lightbox */
 .lb { position: fixed; inset: 0; background: rgba(10,10,10,.94); z-index: 50; display: none; align-items: center; justify-content: center; }
 .lb.open { display: flex; }
-.lb img { max-width: 94vw; max-height: 86vh; object-fit: contain; }
+.lb img { max-width: 94vw; max-height: 86vh; object-fit: contain; cursor: zoom-out; }
 .lb .cap { position: absolute; bottom: 18px; left: 0; right: 0; text-align: center; color: #cfcfcf; font-size: 14px; padding: 0 60px; }
 .lb button { position: absolute; background: none; border: 0; color: #fff; font-size: 34px; cursor: pointer; padding: 16px; line-height: 1; opacity: .75; }
 .lb button:hover { opacity: 1; }
@@ -204,6 +215,9 @@ img { max-width: 100%; display: block; }
   .article .subtitle { font-size: 18px; }
   .prose { font-size: 18px; }
   .gallery figure { margin-bottom: 40px; }
+  .mosaic { padding: 0 8px; }
+  .mosaic .m-row { gap: 4px; margin-bottom: 4px; }
+  .mosaic figcaption { font-size: 12px; }
   .gallery figure.wide { padding: 0; }
   .gallery figure.wide figcaption { padding: 0 16px; }
 }

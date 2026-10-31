@@ -6,6 +6,7 @@ summary: 從一件魯凱族上衣出發，用 AI 重建歷史影像，一路追�
 cover: /media/works/clouded-leopard/05.webp
 tools: ChatGPT（GPT 影像生成）
 draft: false
+galleryLayout: single
 gallery:
   - /media/works/clouded-leopard/01.webp
   - /media/works/clouded-leopard/02.webp

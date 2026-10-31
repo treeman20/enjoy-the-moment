@@ -2,7 +2,7 @@
 import { render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import site from '../../data/site.json';
-import { getWorks, coverOf, formatDate, isoDate, plainExcerpt } from '../../lib/works';
+import { getWorks, coverOf, formatDate, isoDate, plainExcerpt, aspectOf, mosaicRows } from '../../lib/works';
 
 export async function getStaticPaths() {
   const works = await getWorks();
@@ -16,6 +16,10 @@ const { Content } = await render(work);
 const d = work.data;
 const images = d.images ?? [];
 const cover = coverOf(work);
+const ratios = await Promise.all(images.map((im) => aspectOf(im.src)));
+const single = d.galleryLayout === 'single' || images.length < 3;
+const rows = single ? images.map((_, i) => [i]) : mosaicRows(ratios);
+const altOf = (i: number) => images[i].caption ? `${d.title}・${images[i].caption}` : `${d.title}・第 ${i + 1} 張`;
 const desc = plainExcerpt(work, 150);
 const abs = (p: string) => new URL(p, Astro.site ?? site.url).href;
 
@@ -55,22 +59,34 @@ const jsonLd = {
       {d.tools && <p class="tools">創作工具：{d.tools}</p>}
     </header>
 
-    {images.length > 0 && (
+    {images.length > 0 && single && (
       <section class="gallery" aria-label="作品影像">
         {images.map((im, i) => (
           <figure class={i % 7 === 0 ? 'wide' : ''}>
             <button type="button" data-i={i} aria-label={`放大第 ${i + 1} 張`}>
-              <img
-                src={im.src}
-                alt={im.caption ? `${d.title}・${im.caption}` : `${d.title}・第 ${i + 1} 張`}
-                loading={i < 2 ? 'eager' : 'lazy'}
-                decoding="async"
-              />
+              <img src={im.src} alt={altOf(i)} width={Math.round(ratios[i] * 1000)} height="1000" loading={i < 2 ? 'eager' : 'lazy'} decoding="async" />
             </button>
             {(im.caption || images.length > 1) && (
               <figcaption><span class="num">{String(i + 1).padStart(2, '0')}</span>{im.caption}</figcaption>
             )}
           </figure>
+        ))}
+      </section>
+    )}
+
+    {images.length > 0 && !single && (
+      <section class="mosaic" aria-label="作品影像">
+        {rows.map((row, r) => (
+          <div class={`m-row n${row.length}`} style={row.length === 1 && ratios[row[0]] < 1.2 ? `max-width: calc(82vh * ${ratios[row[0]].toFixed(3)})` : undefined}>
+            {row.map((i) => (
+              <figure style={`flex: ${ratios[i].toFixed(3)} 1 0%`}>
+                <button type="button" data-i={i} aria-label={`放大第 ${i + 1} 張`}>
+                  <img src={images[i].src} alt={altOf(i)} width={Math.round(ratios[i] * 1000)} height="1000" loading={r < 2 ? 'eager' : 'lazy'} decoding="async" />
+                </button>
+                {images[i].caption && <figcaption>{images[i].caption}</figcaption>}
+              </figure>
+            ))}
+          </div>
         ))}
       </section>
     )}
@@ -105,11 +121,13 @@ const jsonLd = {
     }
     function open(i) { show(i); lb.classList.add('open'); document.body.style.overflow = 'hidden'; }
     function close() { lb.classList.remove('open'); document.body.style.overflow = ''; }
-    document.querySelectorAll('.gallery button').forEach((b) => b.addEventListener('click', () => open(+b.dataset.i)));
+    document.querySelectorAll('.gallery button, .mosaic button').forEach((b) => b.addEventListener('click', () => open(+b.dataset.i)));
     lb.querySelector('.x').addEventListener('click', close);
     lb.querySelector('.prev').addEventListener('click', (e) => { e.stopPropagation(); show(cur - 1); });
     lb.querySelector('.nxt').addEventListener('click', (e) => { e.stopPropagation(); show(cur + 1); });
     lb.addEventListener('click', (e) => { if (e.target === lb) close(); });
+    // 和 Medium 一樣：放大後再點一下影像，回到排列
+    img.addEventListener('click', close);
     document.addEventListener('keydown', (e) => {
       if (!lb.classList.contains('open')) return;
       if (e.key === 'Escape') close();
