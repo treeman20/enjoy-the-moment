@@ -1,7 +1,7 @@
 ---
 title: "純白舍的青少年舞者"
 date: 2019-08-27
-category: 春泥圖輯
+category: 水積成川
 summary: "藝術家養成階段，最寶貴的是在「會與不會之間」的狀態。"
 cover: /media/works/2019-08-27-youth-dancers/01.webp
 draft: false
