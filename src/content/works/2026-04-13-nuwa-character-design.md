@@ -24,8 +24,8 @@ Dreamina 的 Seedance 2.0 fast 跑影片，比較寬，只擋了一次！
 
 還是透過影片剪輯遮一下，不然我怕 FB 封鎖我。
 
-<video class="clip" src="/media/works/2026-04-13-nuwa-character-design/video-1.mp4" poster="/media/works/2026-04-13-nuwa-character-design/video-1.jpg" controls playsinline preload="metadata"></video>
+<video class="clip" src="/media/works/2026-04-13-nuwa-character-design/video-1.mp4?v=2" poster="/media/works/2026-04-13-nuwa-character-design/video-1.jpg?v=2" controls playsinline preload="metadata"></video>
 
-<video class="clip" src="/media/works/2026-04-13-nuwa-character-design/video-2.mp4" poster="/media/works/2026-04-13-nuwa-character-design/video-2.jpg" controls playsinline preload="metadata"></video>
+<video class="clip" src="/media/works/2026-04-13-nuwa-character-design/video-2.mp4?v=2" poster="/media/works/2026-04-13-nuwa-character-design/video-2.jpg?v=2" controls playsinline preload="metadata"></video>
 
-<video class="clip" src="/media/works/2026-04-13-nuwa-character-design/video-3.mp4" poster="/media/works/2026-04-13-nuwa-character-design/video-3.jpg" controls playsinline preload="metadata"></video>
+<video class="clip" src="/media/works/2026-04-13-nuwa-character-design/video-3.mp4?v=2" poster="/media/works/2026-04-13-nuwa-character-design/video-3.jpg?v=2" controls playsinline preload="metadata"></video>
