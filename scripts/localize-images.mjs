@@ -20,7 +20,9 @@ for (const file of files) {
   const stem = file.replace(/\.md$/, '');
   const dir = path.join(MEDIA, stem);
   await mkdir(dir, { recursive: true });
-  let n = 0;
+  // 接著資料夾裡現有的編號往下排，避免補抓時蓋掉已下載的圖片
+  const existing = (await readdir(dir)).map((f) => parseInt(f, 10)).filter((x) => !Number.isNaN(x));
+  let n = existing.length ? Math.max(...existing) : 0;
   for (const url of urls) {
     n += 1;
     const name = String(n).padStart(2, '0') + '.webp';
