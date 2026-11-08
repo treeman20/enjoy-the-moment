@@ -5,11 +5,10 @@ category: AIGC作品
 summary: 為華韻紀元「神話再聲」系列設計女媧：粗布衣與蛇皮，以及 AI 影片生成在內容政策之間的拿捏。
 tools: Midjourney、Dreamina Seedance 2.0 fast
 draft: false
-cover: /media/works/2026-04-13-nuwa-character-design/cover.webp
+cover: /media/works/2026-04-13-nuwa-character-design/02.webp
 gallery:
-  - /media/works/2026-04-13-nuwa-character-design/cover.webp
-captions: |-
-  女媧｜Midjourney
+  - /media/works/2026-04-13-nuwa-character-design/01.webp
+  - /media/works/2026-04-13-nuwa-character-design/02.webp
 ---
 即將邁入華韻紀元的「神話再聲」系列影片製作，跟學生一直討論角色設計！
 
@@ -17,7 +16,7 @@ captions: |-
 
 粗布衣和蛇皮如何？因為好多神話角色都跟蛇有關……
 
-【圖 1】
+【圖 1-2】
 
 描述詞用了「神話」一詞，Midjourney 變得比較寬容嗎？圖片生成沒問題，但跑影片的時候，被擋三分之二！
 
