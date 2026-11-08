@@ -230,3 +230,6 @@ img { max-width: 100%; display: block; }
 .prose table { display: block; overflow-x: auto; border-collapse: collapse; margin: 1.6em 0; font-family: var(--sans); font-size: 14px; line-height: 1.6; }
 .prose th, .prose td { border: 1px solid var(--rule); padding: 8px 12px; text-align: left; vertical-align: top; min-width: 6em; }
 .prose th { background: var(--soft); font-weight: 700; white-space: nowrap; }
+
+/* 網站自有影片 */
+.prose video.clip { display: block; width: 100%; max-height: 80vh; margin: 2em auto; background: #000; border-radius: 2px; }
