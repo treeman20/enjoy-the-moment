@@ -42,9 +42,9 @@ gallery:
 
 接著再用 Dreamina 的 Seedance，做了兩組動畫。（8 秒 112 點）
 
-<div class="video"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F1640556147%2Fvideos%2F1291335265966790%2F&show_text=false&width=1280" title="AI 動畫" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe></div>
+<video class="clip" src="/media/works/2026-05-26-ai-negative-labels/video-1.mp4" poster="/media/works/2026-05-26-ai-negative-labels/video-1.jpg" controls playsinline preload="metadata"></video>
 
-<div class="video"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F1640556147%2Fvideos%2F1510678737450011%2F&show_text=false&width=1280" title="AI 動畫" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe></div>
+<video class="clip" src="/media/works/2026-05-26-ai-negative-labels/video-2.mp4" poster="/media/works/2026-05-26-ai-negative-labels/video-2.jpg" controls playsinline preload="metadata"></video>
 
 真的還不錯誒，好難想像我們的繪圖表現從手工描繪、電腦繪圖，現在到了風格取樣加描述，就會有可以表達想法的動畫！
 

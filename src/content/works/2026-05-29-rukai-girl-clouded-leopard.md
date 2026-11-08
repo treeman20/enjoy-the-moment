@@ -22,16 +22,16 @@ gallery:
 
 > 在花海中，固定的相機鏡頭由地面拍向天空，小女孩與雲豹走進畫面，小女孩開心的採了一朵百合花，並拿起來欣賞，小雲豹在女孩身邊打轉，並一起跨過鏡頭走出畫面，請維持鏡頭角度與距離！
 
-<div class="video"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F1640556147%2Fvideos%2F1007682808556793%2F&show_text=false&width=1280" title="AI 影片" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe></div>
+<video class="clip" src="/media/works/2026-05-29-rukai-girl-clouded-leopard/video-1.mp4" poster="/media/works/2026-05-29-rukai-girl-clouded-leopard/video-1.jpg" controls playsinline preload="metadata"></video>
 
 ### prompt 2
 
 > 固定相機拍攝視角，第一秒到第五秒，呈現台灣魯凱族的少女躺在百合花的平原上與小雲豹一起玩耍。第五秒到第八秒，維持相機視角，Zoom in 特寫小女孩的臉部，呈現她開心滿足望著天空的眼神，眨眨眼睛，微笑。
 
-<div class="video"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F1640556147%2Fvideos%2F1542114284019698%2F&show_text=false&width=1280" title="AI 影片" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe></div>
+<video class="clip" src="/media/works/2026-05-29-rukai-girl-clouded-leopard/video-2.mp4" poster="/media/works/2026-05-29-rukai-girl-clouded-leopard/video-2.jpg" controls playsinline preload="metadata"></video>
 
 ### prompt 3
 
 > 固定相機拍攝，紀錄魯凱族小女孩和小雲豹進入畫面，駐足在這片百合花海，眺望遠方。突然聽到鏡頭這邊有人呼喚，轉身面向鏡頭，開心地朝鏡頭方向，伸手打招呼。
 
-<div class="video"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F1640556147%2Fvideos%2F1344984260884890%2F&show_text=false&width=1280" title="AI 影片" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe></div>
+<video class="clip" src="/media/works/2026-05-29-rukai-girl-clouded-leopard/video-3.mp4" poster="/media/works/2026-05-29-rukai-girl-clouded-leopard/video-3.jpg" controls playsinline preload="metadata"></video>

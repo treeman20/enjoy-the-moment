@@ -32,9 +32,9 @@ captions: |-
 
 AI 不是幫我們把歌詞寫完而已，而是不斷透過提問與討論，讓我們重新思考每一個角色、每一段情節，以及每一個文化符號背後真正的意義。
 
-<div class="video"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F1640556147%2Fvideos%2F1996688480969677%2F&show_text=false&width=1280" title="AI 影片" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe></div>
+<video class="clip" src="/media/works/2026-05-31-shanxiao-shuimei/video-1.mp4" poster="/media/works/2026-05-31-shanxiao-shuimei/video-1.jpg" controls playsinline preload="metadata"></video>
 
-<div class="video"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F1640556147%2Fvideos%2F2218012362335820%2F&show_text=false&width=1280" title="AI 影片" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe></div>
+<video class="clip" src="/media/works/2026-05-31-shanxiao-shuimei/video-2.mp4" poster="/media/works/2026-05-31-shanxiao-shuimei/video-2.jpg" controls playsinline preload="metadata"></video>
 
 因此，如果未來吳李先生或其他創作者想要持續發展《聊齋》、《太平廣記》或中國志怪系列作品，我會建議在創作完成之前，先經過幾個檢查點。
 
