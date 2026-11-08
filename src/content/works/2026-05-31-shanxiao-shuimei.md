@@ -1,0 +1,73 @@
+---
+title: 從《山魈水魅》談 AI 時代的歌曲創作
+date: 2026-05-31
+category: AIGC作品
+summary: 從寫歌到重新理解文化：山魈是對未知的恐懼，水魅是心裡放不下的遺憾，以及志怪題材創作的五個檢查點。
+tools: GPT、Suno、AI 影片生成
+draft: false
+gallery:
+  - "https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/709803136_10238785497569610_4203215756565825382_n.jpg?stp=dst-jpg_tt6&cstp=mx971x1619&ctp=s971x1619&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Rs5vXPONEYoQ7kNvwF_O1Rr&_nc_oc=AdrPYHm748SGefI_wUixuItykDuS8AzxBLL6edr7Xq2NxBMS8TGlFjV6E9yOvKBKVrE&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=C-vyeGS-LcjAjJdg4TACzw&_nc_ss=792a8&oh=00_AQSr6Wh7s2ZH6JQfoOA5HgSjSfmyFbyX0n3skSXthZKAdA&oe=6AF648D8"
+  - "https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/709709920_10238785498209626_8516242968573713427_n.jpg?stp=dst-jpg_tt6&cstp=mx972x1619&ctp=s972x1619&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=JBaLskWZWZQQ7kNvwEMGyu9&_nc_oc=AdpXcjsh3gleUUbmI1UrQn4GthWt0zJSTC7DR3ZXJWWuouIDyllTnkVvRXcg-IKggB4&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=RY-ctOYDlGTSAq0YEjT60A&_nc_ss=7b2a8&oh=00_AQRtXrI0Mzd7YhvMW581JBqDbs5ohx6HzQHShxEMti-WAQ&oe=6AF67FF3"
+captions: |-
+  山魈
+  水魅
+---
+最近在協助吳李先生創作《山魈水魅》這首歌曲時，我發現了一件很有意思的事情。表面上看起來，我們是在寫一首歌；但實際上，我們做的事情遠比寫歌更多。
+
+<div class="listen"><a href="https://suno.com/s/TwzdfzLflovs1tIF" target="_blank" rel="noopener">《山魈水魅》</a></div>
+
+一開始，主題只是來自中國古代志怪文學中的「山魈」與「水魅」。如果按照一般方式創作，很容易變成單純描述妖怪的歌曲：山魈長什麼樣子、水魅如何迷惑人，然後再搭配一些中國風的詞句與旋律。然而在 AI 協作的過程中，我們卻逐漸發現，真正有趣的地方並不在妖怪本身，而在於這些妖怪背後所代表的人性與文化意涵。
+
+例如山魈。當我們開始討論時，很快發現山魈其實不只是山中的怪物。它更像是人類面對深山、迷霧、黑暗與未知時所產生的原始恐懼。於是歌曲裡的山魈，不再只是妖怪，而變成一種「被追逐」的感受。
+
+而水魅則完全不同。她不是獵殺者，而是誘惑者。她最可怕的地方，不是張牙舞爪，而是讓人心甘情願地靠近。於是我們開始思考：水魅究竟會用什麼方式吸引人？一開始曾經使用祖母、童年等親情元素，但後來發現這樣的設定雖然溫暖，卻不符合妖魅的特質。於是逐漸轉向「遺憾」與「未完成的情感」。
+
+【圖 1-2】
+
+最後留下的一句歌詞：
+
+> 像是那句來不及，對她說完的再見。
+
+這時候，水魅已經不再是傳說中的妖怪，而是每個人心裡那個放不下的人。而這正是 AI 協作創作最有價值的地方。
+
+AI 不是幫我們把歌詞寫完而已，而是不斷透過提問與討論，讓我們重新思考每一個角色、每一段情節，以及每一個文化符號背後真正的意義。
+
+<div class="video"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F1640556147%2Fvideos%2F1996688480969677%2F&show_text=false&width=1280" title="AI 影片" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe></div>
+
+<div class="video"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F1640556147%2Fvideos%2F2218012362335820%2F&show_text=false&width=1280" title="AI 影片" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe></div>
+
+因此，如果未來吳李先生或其他創作者想要持續發展《聊齋》、《太平廣記》或中國志怪系列作品，我會建議在創作完成之前，先經過幾個檢查點。
+
+## 第一個檢查點：妖怪只是外殼，核心情感是什麼？
+
+不要急著描述妖怪。先問自己：這個角色代表的是什麼？山魈代表未知與恐懼，水魅代表誘惑與遺憾。狐妖可能代表慾望，畫中仙可能代表理想與執著。當核心情感確立後，歌詞才會有更深的層次。
+
+## 第二個檢查點：故事是否能成立？
+
+許多創作會停留在意象堆疊。但真正能打動人的歌曲，往往有故事。例如《山魈水魅》的故事其實非常簡單：
+
+誤入深山 → 被山魈追逐 → 墜入深潭 → 遇見水魅 → 最終無法返回人間。
+
+這樣的故事線讓兩個原本無關的妖怪產生關聯，也讓歌曲具有電影般的畫面感。
+
+## 第三個檢查點：是否符合今天的生活經驗？
+
+我們引用的是中國古典文學，但創作的人是今天的我們。因此不需要原封不動搬運古代內容。相反地，更重要的是轉譯。
+
+例如「水底古城」或許符合某些地區的文化想像，但對台灣人來說，「深潭」、「溪谷」、「山霧」、「古道」可能更具有生活經驗與情感連結。文化傳承不只是複製，而是重新詮釋。
+
+## 第四個檢查點：音樂是否也是故事的一部分？
+
+在 AI 音樂創作時，很多人只關心歌詞，但其實編曲本身也是敘事。例如《山魈水魅》最後形成的構想：山魈段落使用重搖滾、定音鼓、咆哮與 RAP；水魅段落則改用大提琴、空靈女聲與緩慢節奏。
+
+這些樂器與聲音本身就在講故事。觀眾甚至不用聽懂歌詞，也能感受到情緒的變化。
+
+## 第五個檢查點：我們希望觀眾帶走什麼？
+
+這或許是最重要的一件事。如果歌曲結束後，觀眾只記得出現了一隻妖怪，那作品的價值其實有限。但如果觀眾開始思考：山魈是不是人類對未知的恐懼？水魅是不是每個人心中的遺憾？那麼這首歌便超越了娛樂，成為一種文化思考。
+
+## 結語
+
+華韻紀元一直希望透過 AI 重新閱讀文化。我們並不是要複製古代，也不是要復古，而是透過 AI 這個新的工具，重新走進那些古老的故事之中，從今天的角度重新理解它們。
+
+當我們重新理解這些故事的時候，我們其實也在重新理解自己。而這，或許才是 AI 創作最珍貴的價值：它不只是生成內容，它讓我們重新發現文化。
