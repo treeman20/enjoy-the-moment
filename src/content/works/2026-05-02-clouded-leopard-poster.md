@@ -1,0 +1,39 @@
+---
+title: 《雲豹追尋》：用 AI 做一張電影海報
+date: 2026-05-02
+category: AIGC作品
+summary: 影像生成技術不再是問題，該思考的是能做什麼內容。以台灣雲豹與魯凱族神話為題，從 GPT 海報到 Seedance 動態影片。
+tools: GPT、Dreamina Seedance
+draft: false
+gallery:
+  - "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/687038850_10238414017162832_877582117329268706_n.jpg?stp=dst-jpg_tt6&cstp=mx1060x1484&ctp=s1060x1484&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=4cTqRzSryp8Q7kNvwG8bDRm&_nc_oc=AdoECrQPWcgexn3HsrEiFDrvkGzrO_sqp_I9eCvCthAVCLcYovldaSJ-8m7Gw-Tkz_M&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=wMfsQ8BrEQw5txLScK2qzQ&_nc_ss=792a8&oh=00_AQQ9ilEP-ghEjeVmF8Ipm2s18R-yJC89dh7mo5t2JmB_hA&oe=6AF65816"
+---
+感覺影像生成技術不是問題了，現在要認真思考，這 AI 技術可以做什麼內容！
+
+（參考社群分享的電影海報設計描述詞，改寫內容而成。）
+
+【圖 1】
+
+## GPT 影像 prompt
+
+> 我要一張以台灣雲豹與魯凱族的一段神話故事電影海報，我希望在純白的背景下，特寫台灣雲豹凝視著鏡頭作為主要背景，前景是一對魯凱族原住民一男一女穿著魯凱族的代表服飾，在雲豹前的畫面中間，兩人站在一起，分別面向外面，三者都是以低角度記錄的仰角畫面呈現，以展示其雄偉神聖。
+>
+> 電影海報，畫面為縱向構圖（建議 5:7）。
+>
+> 主體為「雲豹的巨大側面剪影」（清晰輪廓、辨識度高、比例準確），作為整體外輪廓與視覺核心。剪影邊緣乾淨銳利，與背景形成明確對比。所有元素需依視覺動線自然融合，具有前景、中景、遠景的空間層次與遮擋關係，形成「一體化敘事畫面」，而非零散拼接。
+>
+> **風格與光影：** 整體為寫實電影海報風格（cinematic realism），帶有史詩感與藝術質感。使用電影級光影（高對比明暗、局部高光、體積光、輪廓光），在剪影內外形成光影對比與情緒張力。色彩調性為明亮高冷色調，整體需統一且具電影色彩分級（cinematic color grading）。
+>
+> **構圖與視覺引導：** 主視覺集中於側臉剪影；剪影內部由下至上或由前至後形成故事流動；視線有明確導向（leading lines）；背景簡潔，避免干擾主體。
+>
+> **文字排版（繁體中文）：** 電影片名：雲豹追尋（大字主標題，具設計感）。副標題：一段尋找祖靈化身深山之旅。上映資訊或宣傳語、演員與製作名單（底部小字，院線海報風格）。文字需與畫面融合，透視正確、清晰可讀、不變形。
+>
+> **畫質要求：** 超高解析度（8K）、高細節、清晰邊緣、材質真實、無噪點、風格一致，具備收藏級與院線級海報品質。
+
+## Dreamina Seedance 影片 prompt
+
+> 影片全程維持海報現有文字排版模式，主圖雲豹，轉頭對著鏡頭大叫一聲，再回復原有姿勢。畫面中的男女主角，各自舉起一隻手靠在嘴邊，對著遠山呼喊！並左右環顧，像是在搜尋什麼。
+
+（8 秒花費 112 點）
+
+<div class="video"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F1640556147%2Fvideos%2F1242923904588378%2F&show_text=false&width=1280" title="AI 影片" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe></div>
