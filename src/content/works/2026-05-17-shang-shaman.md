@@ -6,12 +6,12 @@ summary: 從神農到殷墟女巫：GPT 給的「電影化女祭司」不符考�
 tools: GPT
 draft: false
 gallery:
-  - "https://scontent.ftpe8-3.fna.fbcdn.net/v/t39.30808-6/702275567_10238613769916526_1525420767332253126_n.jpg?stp=dst-jpg_tt6&cstp=mx1254x1254&ctp=s1254x1254&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=C2JdgbNns3EQ7kNvwGn57v3&_nc_oc=AdqeCYRjJELpcdx-C7X6A5y2aazGvKz4rWQwf0dPlF4JHzFKSsNtAr3MZ5DHOx5UPbw&_nc_zt=23&_nc_ht=scontent.ftpe8-3.fna&_nc_gid=UnoOY-ghd-mXSainWdMZDw&_nc_ss=792a8&oh=00_AQR0ZKrlBEiwm9Wt1R9hkJ0D-AF_ogCgFvzdkmQcjsYghA&oe=6AF65E8B"
-  - "https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/702450853_10238619910470036_6501061625968292991_n.jpg?stp=dst-jpg_tt6&cstp=mx1086x1448&ctp=s1086x1448&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=E-nV-lok2wUQ7kNvwGolpq3&_nc_oc=AdoFvOYRBlPlkpZsZ-6FaYghryuqECeeLu-No8LQM2qfC6WSolP7lmmi45dOkLRnfAM&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=zkQ8uR0JzzQbkirexlvyvQ&_nc_ss=7b2a8&oh=00_AQQB3k2KW0EzDYOrgUcUVPl8xoctHLeyowNftLe1_YGj-Q&oe=6AF64ADB"
-  - "https://scontent.ftpe8-4.fna.fbcdn.net/v/t39.30808-6/702589961_10238613773956627_5411025493360177714_n.jpg?stp=dst-jpg_tt6&cstp=mx1619x971&ctp=s1619x971&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=FgsGvrfqXVIQ7kNvwFjUNS5&_nc_oc=AdoTH4yfSXva5azLNtdu_xswlFNb1aTG8s58Y4GHI2q_AxY3bGXsQ-LOIJ_gfF3K3O4&_nc_zt=23&_nc_ht=scontent.ftpe8-4.fna&_nc_gid=9l1feIx55PMx-kI-0aa3xA&_nc_ss=7b2a8&oh=00_AQRNRJPVaqWCTpBWyoAOTkX3GTPnPUJIFhTPQETOfQqLzg&oe=6AF65624"
-  - "https://scontent.ftpe8-2.fna.fbcdn.net/v/t39.30808-6/700316805_10238613775756672_7636622843647028498_n.jpg?stp=dst-jpg_tt6&cstp=mx821x1915&ctp=s821x1915&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=L310kNkkI_kQ7kNvwH2H_yX&_nc_oc=Adpboqadx_raA8nr3S1e1clRiA6yIsP8-F-caekDPb_hPJL0ZXtNLuGRzWIk6zgoTSc&_nc_zt=23&_nc_ht=scontent.ftpe8-2.fna&_nc_gid=ZBWCLW_yYvgZd3DntVcGyA&_nc_ss=7b2a8&oh=00_AQRLFgPMiRweImAQUqEi8PlCvEs8aLPROvOHm-zxh0hYYg&oe=6AF6697E"
-  - "https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/702569515_10238614705339911_1790342851953647182_n.jpg?stp=dst-jpg_tt6&cstp=mx504x506&ctp=s504x506&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=20InYCIsDW8Q7kNvwFH8KJo&_nc_oc=AdrM0QUzmWZLS-1XlOuLelVEsCRCQV44RIFVVg99CR6ltiMKe7-p6xXD9jkdRNqdbsM&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=z4NSmFTNcDfeb_5AmhoP3w&_nc_ss=7b2a8&oh=00_AQRPPto2vs7Spc77uD3m1jlAxBZ6Yrid238ymET-g3Ut-g&oe=6AF65368"
-  - "https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/702451025_10238614705059904_8248546844661723722_n.jpg?stp=dst-jpg_tt6&cstp=mx1619x971&ctp=s1619x971&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=JCE2ri3FG7wQ7kNvwFv0Ng9&_nc_oc=Ado-OR6NGUOBdlTmDJ02v26aeZGXdX603IkGenRIbcbjyvamoMLPn5yxcqaP3L429po&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=lQqjNZHpV1piiJKBGlqO_A&_nc_ss=7b2a8&oh=00_AQQZzBvsPyZfVT7kuhBmXZjk4h6LZ_n4V2pjwQ1uRsjxgw&oe=6AF671CF"
+  - "/media/works/2026-05-17-shang-shaman/01.webp"
+  - "/media/works/2026-05-17-shang-shaman/02.webp"
+  - "/media/works/2026-05-17-shang-shaman/03.webp"
+  - "/media/works/2026-05-17-shang-shaman/04.webp"
+  - "/media/works/2026-05-17-shang-shaman/05.webp"
+  - "/media/works/2026-05-17-shang-shaman/06.webp"
 captions: |-
   殷墟女巫
   殷墟女巫

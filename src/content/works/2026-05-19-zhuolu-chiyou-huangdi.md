@@ -6,15 +6,15 @@ summary: 原本只想做幾張 AI 圖，卻越查越深：涿鹿之戰也許不�
 tools: GPT、AI 影像生成
 draft: false
 gallery:
-  - "https://scontent.ftpe8-3.fna.fbcdn.net/v/t39.30808-6/703065001_10238639284714380_3729421027268443352_n.jpg?stp=dst-jpg_tt6&cstp=mx887x1774&ctp=s887x1774&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=t1m4jHfe7QMQ7kNvwEaED_S&_nc_oc=AdpxVZh8kybPR9yDz62LXRDXr5FjzVRJ_l-gRHaJGhOp0dHAyzCe9mjr08fpXR3fqRo&_nc_zt=23&_nc_ht=scontent.ftpe8-3.fna&_nc_gid=H8qC1m4L58BqH9syCnGxkw&_nc_ss=792a8&oh=00_AQQVAIeb0UCvp9fSMEdlCpNANgVuoykGydepzmHns0GhRw&oe=6AF67033"
-  - "https://scontent.ftpe8-3.fna.fbcdn.net/v/t39.30808-6/701705122_10238639284154366_4247410300180644711_n.jpg?stp=dst-jpg_tt6&cstp=mx1086x1448&ctp=s1086x1448&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=BWppOzC18iQQ7kNvwEAKwr5&_nc_oc=AdoJhIoGeI4CdzFS_XXKxmmdqMvU4nx0JDlpxZsoIPe6VYmbgwB9Q4r5M5tyKyX5BuA&_nc_zt=23&_nc_ht=scontent.ftpe8-3.fna&_nc_gid=G8FizH3--esT_Cy_JmmMQg&_nc_ss=7b2a8&oh=00_AQSrOq3WZvmK1FRWy62-DJ0I8TVu1a4rcRm6iC8tcJ5SCA&oe=6AF67C16"
-  - "https://scontent.ftpe8-2.fna.fbcdn.net/v/t39.30808-6/703474279_10238639282314320_6538976729799895889_n.jpg?stp=dst-jpg_tt6&cstp=mx1086x1448&ctp=s1086x1448&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=UNdB5x146YMQ7kNvwGz8MzL&_nc_oc=AdpiNcg8yKyrxf4C6OzlCQ-o9udBEEEWca5t2_LCJUhEjL1vO6lXB2BCiPrmJun8fkA&_nc_zt=23&_nc_ht=scontent.ftpe8-2.fna&_nc_gid=wv53v0m7P538IONL6pHRLw&_nc_ss=7b2a8&oh=00_AQQG9_ap--HuOPTKC5evxVlQW1-zuLL77LJKsQ9XZHqqrg&oe=6AF66D55"
-  - "https://scontent.ftpe8-3.fna.fbcdn.net/v/t39.30808-6/702570512_10238639281994312_1168534876569759750_n.jpg?stp=dst-jpg_tt6&cstp=mx972x1619&ctp=s972x1619&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=4F7LXf9JH7IQ7kNvwFWeq5Q&_nc_oc=AdrzhpwrZQhzilEpcoWhA0lYWVSiMtKAL4uqvR7fAmkWYvy0ZRfbKWF_fwlMvmGwWxk&_nc_zt=23&_nc_ht=scontent.ftpe8-3.fna&_nc_gid=bKGaL_nw-DYflVi6WQCSjQ&_nc_ss=7b2a8&oh=00_AQRbuYPra7BOrRdGF946ItLOVfEF24OjKbdOOUdAmKJa4A&oe=6AF677DC"
-  - "https://scontent.ftpe8-4.fna.fbcdn.net/v/t39.30808-6/702702903_10238639282034313_3728055737126869366_n.jpg?stp=dst-jpg_tt6&cstp=mx972x1619&ctp=s972x1619&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=i6565T5fOaIQ7kNvwERvzUC&_nc_oc=Adq-vwtgRWdKXMasK4c5JaELx_Tq8HCUrDNEZlfZW6dqQDM3_ImIXflcRtMkgmgl3bo&_nc_zt=23&_nc_ht=scontent.ftpe8-4.fna&_nc_gid=TZa7oq567DveMr7lpakpdg&_nc_ss=7b2a8&oh=00_AQRTu4Dfi_1uX8YUOqoM4lO4QYShl5mtLi1iMGC4WxqgoA&oe=6AF65B34"
-  - "https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/702545858_10238639283194342_7187773018712479763_n.jpg?stp=dst-jpg_tt6&cstp=mx971x1619&ctp=s971x1619&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Yts20bBp7OMQ7kNvwEAluWs&_nc_oc=Adox5QfgJDYjySv1lqz0pGMW5jC7X5vMQl06kG9VtbJJXmDwu_S1dlaiVOMGgfJb_do&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=LScd4DihsaevFvDoce-0cw&_nc_ss=7b2a8&oh=00_AQSG2OJB9-Bdqq-0HZAN0xCQodjXmSaq1qDczZKkr3T-KA&oe=6AF66F77"
-  - "https://scontent.ftpe8-2.fna.fbcdn.net/v/t39.30808-6/700987090_10238639282074314_4025515242041953928_n.jpg?stp=dst-jpg_tt6&cstp=mx971x1619&ctp=s971x1619&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Z7C93aQiQpgQ7kNvwEfZUxe&_nc_oc=AdryQGhTItoxuK5APw-bVQseCfeniosw1GFa2h6LmB4jIM2Jg4-be9eIaqaokRoE7Nk&_nc_zt=23&_nc_ht=scontent.ftpe8-2.fna&_nc_gid=4G-SIXg2CkjDXadm3eiTwg&_nc_ss=7b2a8&oh=00_AQT9EYS-uGuSKRtHtFNMHCCwIM1Ms3Cy2mxUuyElHB1PKQ&oe=6AF6661D"
-  - "https://scontent.ftpe8-4.fna.fbcdn.net/v/t39.30808-6/701643020_10238639284274369_1114525010559775528_n.jpg?stp=dst-jpg_tt6&cstp=mx1024x1536&ctp=s1024x1536&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=-qLqBnKZYOIQ7kNvwGnWPml&_nc_oc=AdqTr-SlbfKXV3C-eQ7VWAkdRwUwNIDnhSsCAgP4DIx3mIBYzeUcXP-jSLJgIJzJAPk&_nc_zt=23&_nc_ht=scontent.ftpe8-4.fna&_nc_gid=PuSMFg_ZYRVr-j2fAwBidQ&_nc_ss=7b2a8&oh=00_AQQvjZj4oPSnx5TxQzrNCN22tSWkfcHOZWiCMICAwBmwhw&oe=6AF64FEE"
-  - "https://scontent.ftpe8-2.fna.fbcdn.net/v/t39.30808-6/702569895_10238639285274394_288967700291302634_n.jpg?stp=dst-jpg_tt6&cstp=mx1024x1536&ctp=s1024x1536&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Lm3SSE7f4sMQ7kNvwG7O-5N&_nc_oc=AdoNc9EYUDghS12HO78ILp-Ia-nVIKZXYunKUzeYOh1Os6xjGuGLtkB4VUX4tXgAHac&_nc_zt=23&_nc_ht=scontent.ftpe8-2.fna&_nc_gid=71m1wSkDUPCYaA9nrKsbDw&_nc_ss=7b2a8&oh=00_AQT6vWpI-Bsat78ZKzS0_b3yxqooSjhB44ezLIS6KUSW6A&oe=6AF66EFB"
+  - "/media/works/2026-05-19-zhuolu-chiyou-huangdi/01.webp"
+  - "/media/works/2026-05-19-zhuolu-chiyou-huangdi/02.webp"
+  - "/media/works/2026-05-19-zhuolu-chiyou-huangdi/03.webp"
+  - "/media/works/2026-05-19-zhuolu-chiyou-huangdi/04.webp"
+  - "/media/works/2026-05-19-zhuolu-chiyou-huangdi/05.webp"
+  - "/media/works/2026-05-19-zhuolu-chiyou-huangdi/06.webp"
+  - "/media/works/2026-05-19-zhuolu-chiyou-huangdi/07.webp"
+  - "/media/works/2026-05-19-zhuolu-chiyou-huangdi/08.webp"
+  - "/media/works/2026-05-19-zhuolu-chiyou-huangdi/09.webp"
 captions: |-
   《涿鹿》
   蚩尤

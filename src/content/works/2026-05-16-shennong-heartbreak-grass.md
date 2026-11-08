@@ -6,9 +6,9 @@ summary: 完成〈斷腸草／神農〉一曲，再請 GPT 視覺化這位上古
 tools: GPT、Suno
 draft: false
 gallery:
-  - "https://scontent.ftpe8-2.fna.fbcdn.net/v/t39.30808-6/701385745_10238587117410230_781158919980856844_n.jpg?stp=dst-jpg_tt6&cstp=mx1774x887&ctp=s1774x887&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=tFne9cEQu9YQ7kNvwFkPIKM&_nc_oc=Adp55uXpR5D068eOP7e9I7FrsCsQkW2py2KO95PdhJpnpEFh_O1pKJpRnZictY6uLWs&_nc_zt=23&_nc_ht=scontent.ftpe8-2.fna&_nc_gid=djMNFB0CAmunH9uIMnSRFg&_nc_ss=792a8&oh=00_AQSHifNLic53-HCdOM1RuzdlSDCS62x0_rCjKcDzi6IG2Q&oe=6AF66F2E"
-  - "https://scontent.ftpe8-3.fna.fbcdn.net/v/t39.30808-6/701470335_10238587117530233_6660123900091983185_n.jpg?stp=dst-jpg_tt6&cstp=mx1086x1448&ctp=s1086x1448&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=3YHdn17i4k0Q7kNvwGutsED&_nc_oc=AdpslEAi0E5wZglBYTVN2w6B7XDuS7d-derG-UqebgJG1sGzNRW34QUrznCr6mRuFfc&_nc_zt=23&_nc_ht=scontent.ftpe8-3.fna&_nc_gid=eOqL5J2hIqlub2GyF3VGzQ&_nc_ss=7b2a8&oh=00_AQS8V5apqAJMjaSvwID1Wv_mNldjtyt0-LuVcnYIHopTqg&oe=6AF650EF"
-  - "https://scontent.ftpe8-4.fna.fbcdn.net/v/t39.30808-6/701260644_10238587117490232_1119764843366732215_n.jpg?stp=dst-jpg_tt6&cstp=mx1254x1254&ctp=s1254x1254&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=i2ci20wFRIoQ7kNvwHq3O7C&_nc_oc=AdqwUty0-jQ3yiSX4i2w9smF8Tx_Uqlki9zQQNkeF0okqTXl_LiaujVn74SGzjs9y7Q&_nc_zt=23&_nc_ht=scontent.ftpe8-4.fna&_nc_gid=atxHwMqyD8irscojmyfFgg&_nc_ss=7b2a8&oh=00_AQRvmHBwcjwI4ApCHApLW62ZTQYAgC59fSCGXoT1YJ0r5g&oe=6AF66BB9"
+  - "/media/works/2026-05-16-shennong-heartbreak-grass/01.webp"
+  - "/media/works/2026-05-16-shennong-heartbreak-grass/02.webp"
+  - "/media/works/2026-05-16-shennong-heartbreak-grass/03.webp"
 ---
 不小心又晚上一點了，創作真的很迷人！
 

@@ -6,8 +6,8 @@ summary: 不要用百分比分 AI 與人的貢獻，改用「創作流程分層�
 tools: GPT
 draft: false
 gallery:
-  - "https://scontent.ftpe8-2.fna.fbcdn.net/v/t39.30808-6/690761889_10238441709975135_2012331950967775015_n.jpg?stp=dst-jpg_tt6&cstp=mx1054x1492&ctp=s1054x1492&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=-zYBMqef0FsQ7kNvwF8-6O6&_nc_oc=AdoVJJNvN43XZrPTgZya2gpo3_ajMrYj5fm3FKTNZhdsfVBd85DYuG1ZhyMonM4gK2w&_nc_zt=23&_nc_ht=scontent.ftpe8-2.fna&_nc_gid=QRj-w7QSw7-X78MSxgRkww&_nc_ss=792a8&oh=00_AQTXS0x_QO-1flvoQ02FJ7cOs6gizwNywgUWFHybrb2lCw&oe=6AF66519"
-  - "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/687974009_10238441715335269_5054880288174494760_n.jpg?stp=dst-jpg_tt6&cstp=mx1086x1448&ctp=s1086x1448&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8ClqcD8nvFcQ7kNvwFAKTH-&_nc_oc=AdqG2NRw25Rt0X_UbTeBWVJiV4PCT5JnN6u1gcQKS3Mcf0O1vmV7PJlKbGXvkTgZLOg&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=Eb2ITNgdDbUANGjG8T6iQQ&_nc_ss=7b2a8&oh=00_AQTAQvaA5iQ2Nssyb2-N0IudeerRYpaOoig85ppZuedmwA&oe=6AF677DC"
+  - "/media/works/2026-05-04-human-contribution-in-ai-art/01.webp"
+  - "/media/works/2026-05-04-human-contribution-in-ai-art/02.webp"
 captions: |-
   《白鹿之境》
   《逐浪之季》

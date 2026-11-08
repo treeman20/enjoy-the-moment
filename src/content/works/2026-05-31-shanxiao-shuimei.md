@@ -6,8 +6,8 @@ summary: 從寫歌到重新理解文化：山魈是對未知的恐懼，水魅�
 tools: GPT、Suno、AI 影片生成
 draft: false
 gallery:
-  - "https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/709803136_10238785497569610_4203215756565825382_n.jpg?stp=dst-jpg_tt6&cstp=mx971x1619&ctp=s971x1619&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Rs5vXPONEYoQ7kNvwF_O1Rr&_nc_oc=AdrPYHm748SGefI_wUixuItykDuS8AzxBLL6edr7Xq2NxBMS8TGlFjV6E9yOvKBKVrE&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=C-vyeGS-LcjAjJdg4TACzw&_nc_ss=792a8&oh=00_AQSr6Wh7s2ZH6JQfoOA5HgSjSfmyFbyX0n3skSXthZKAdA&oe=6AF648D8"
-  - "https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/709709920_10238785498209626_8516242968573713427_n.jpg?stp=dst-jpg_tt6&cstp=mx972x1619&ctp=s972x1619&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=JBaLskWZWZQQ7kNvwEMGyu9&_nc_oc=AdpXcjsh3gleUUbmI1UrQn4GthWt0zJSTC7DR3ZXJWWuouIDyllTnkVvRXcg-IKggB4&_nc_zt=23&_nc_ht=scontent.ftpe8-1.fna&_nc_gid=RY-ctOYDlGTSAq0YEjT60A&_nc_ss=7b2a8&oh=00_AQRtXrI0Mzd7YhvMW581JBqDbs5ohx6HzQHShxEMti-WAQ&oe=6AF67FF3"
+  - "/media/works/2026-05-31-shanxiao-shuimei/01.webp"
+  - "/media/works/2026-05-31-shanxiao-shuimei/02.webp"
 captions: |-
   山魈
   水魅
