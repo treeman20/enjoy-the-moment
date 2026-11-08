@@ -2,7 +2,7 @@
 title: "蕉埔昆蟲餐廳，限量！"
 date: 2019-06-01
 category: 春泥圖輯
-summary: "感覺上，我中的楊梅好像是種給昆蟲吃的！"
+summary: "感覺上，我種的楊梅好像是種給昆蟲吃的！"
 cover: /media/works/2019-06-01-insect-restaurant/01.webp
 draft: false
 gallery:
