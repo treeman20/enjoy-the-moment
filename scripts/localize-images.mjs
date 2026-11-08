@@ -1,4 +1,4 @@
-// 把作品裡的外部圖片（例如 Medium）下載到 public/media/works/<檔名>/，
+// 把作品裡的外部圖片（例如 Medium、Facebook）下載到 public/media/works/<檔名>/，
 // 轉成寬 1600px 以內的 WebP，並把文章裡的網址改成網站自己的路徑。
 import { readdir, readFile, writeFile, mkdir } from 'node:fs/promises';
 import path from 'node:path';
@@ -14,7 +14,7 @@ for (const file of files) {
   let text = await readFile(full, 'utf8');
   const fm = text.match(/^---\n([\s\S]*?)\n---/);
   if (!fm) continue;
-  const urls = [...new Set([...fm[1].matchAll(/https?:\/\/miro\.medium\.com\/[^\s"']+|https?:\/\/[^\s"']+\.(?:jpe?g|png|gif|webp|avif)/gi)].map((m) => m[0]))];
+  const urls = [...new Set([...fm[1].matchAll(/https?:\/\/[^\s"']*fbcdn\.net\/[^\s"']+|https?:\/\/miro\.medium\.com\/[^\s"']+|https?:\/\/[^\s"']+\.(?:jpe?g|png|gif|webp|avif)/gi)].map((m) => m[0]))];
   if (!urls.length) continue;
 
   const stem = file.replace(/\.md$/, '');

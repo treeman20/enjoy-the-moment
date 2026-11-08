@@ -160,6 +160,10 @@ img { max-width: 100%; display: block; }
 .mosaic figcaption { font-size: 13px; color: var(--muted); margin-top: 8px; line-height: 1.55; text-align: center; }
 .mosaic .m-row.n1 figcaption { font-size: 14px; }
 
+/* 文字之間的拼貼 */
+.mosaic.inline { margin: 8px auto 40px; }
+.column + .column .prose { margin-top: 0; }
+
 /* gallery: Medium-style, one image per row, centred, some break wide */
 .gallery { margin: 48px auto 0; }
 .gallery figure { margin: 0 auto 56px; max-width: var(--col); padding: 0 24px; }

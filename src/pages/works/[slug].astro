@@ -19,6 +19,30 @@ const cover = coverOf(work);
 const ratios = await Promise.all(images.map((im) => aspectOf(im.src)));
 const single = d.galleryLayout === 'single' || images.length < 3;
 const rows = single ? images.map((_, i) => [i]) : mosaicRows(ratios);
+// 文章中的「【圖 1-7】」標記：把該組影像以拼貼插入文字之間
+const TOKEN = /<p>\s*[【\[]\s*圖\s*(\d+)\s*(?:[-–~～至到]\s*(\d+))?\s*[】\]]\s*<\/p>/g;
+const html = (work as any).rendered?.html as string | undefined;
+type Seg = { html?: string; idx?: number[] };
+const segments: Seg[] = [];
+const used = new Set<number>();
+if (html && TOKEN.test(html)) {
+  TOKEN.lastIndex = 0;
+  let last = 0;
+  for (const m of html.matchAll(TOKEN)) {
+    segments.push({ html: html.slice(last, m.index) });
+    const a = Math.max(1, +m[1]);
+    const b = Math.min(images.length, m[2] ? +m[2] : a);
+    const idx: number[] = [];
+    for (let k = a; k <= b; k++) { idx.push(k - 1); used.add(k - 1); }
+    if (idx.length) segments.push({ idx });
+    last = (m.index ?? 0) + m[0].length;
+  }
+  segments.push({ html: html.slice(last) });
+}
+const inline = segments.length > 0;
+const rest = images.map((_, i) => i).filter((i) => !used.has(i));
+const rowsFor = (idx: number[]) =>
+  (idx.length < 3 && idx.every((i) => ratios[i] >= 1.2) ? idx.map((i) => [i]) : mosaicRows(idx.map((i) => ratios[i])).map((r) => r.map((j) => idx[j])));
 const altOf = (i: number) => images[i].caption ? `${d.title}・${images[i].caption}` : `${d.title}・第 ${i + 1} 張`;
 const desc = plainExcerpt(work, 150);
 const abs = (p: string) => new URL(p, Astro.site ?? site.url).href;
@@ -55,11 +79,47 @@ const jsonLd = {
           {images.length > 0 && <span>・{images.length} 張影像</span>}
         </div>
       </div>
-      <div class="prose"><Content /></div>
+      {!inline && <div class="prose"><Content /></div>}
       {d.tools && <p class="tools">創作工具：{d.tools}</p>}
     </header>
 
-    {images.length > 0 && single && (
+    {inline && segments.map((seg, n) => seg.html !== undefined ? (
+      <div class="column"><div class="prose" set:html={seg.html} /></div>
+    ) : (
+      <section class="mosaic inline" aria-label="作品影像">
+        {rowsFor(seg.idx!).map((row) => (
+          <div class={`m-row n${row.length}`} style={row.length === 1 && ratios[row[0]] < 1.2 ? `max-width: calc(82vh * ${ratios[row[0]].toFixed(3)})` : undefined}>
+            {row.map((i) => (
+              <figure style={`flex: ${ratios[i].toFixed(3)} 1 0%`}>
+                <button type="button" data-i={i} aria-label={`放大第 ${i + 1} 張`}>
+                  <img src={images[i].src} alt={altOf(i)} width={Math.round(ratios[i] * 1000)} height="1000" loading={n < 3 ? 'eager' : 'lazy'} decoding="async" />
+                </button>
+                {images[i].caption && <figcaption>{images[i].caption}</figcaption>}
+              </figure>
+            ))}
+          </div>
+        ))}
+      </section>
+    ))}
+
+    {inline && rest.length > 0 && (
+      <section class="mosaic" aria-label="其他影像">
+        {rowsFor(rest).map((row) => (
+          <div class={`m-row n${row.length}`}>
+            {row.map((i) => (
+              <figure style={`flex: ${ratios[i].toFixed(3)} 1 0%`}>
+                <button type="button" data-i={i} aria-label={`放大第 ${i + 1} 張`}>
+                  <img src={images[i].src} alt={altOf(i)} width={Math.round(ratios[i] * 1000)} height="1000" loading="lazy" decoding="async" />
+                </button>
+                {images[i].caption && <figcaption>{images[i].caption}</figcaption>}
+              </figure>
+            ))}
+          </div>
+        ))}
+      </section>
+    )}
+
+    {!inline && images.length > 0 && single && (
       <section class="gallery" aria-label="作品影像">
         {images.map((im, i) => (
           <figure class={i % 7 === 0 ? 'wide' : ''}>
@@ -74,7 +134,7 @@ const jsonLd = {
       </section>
     )}
 
-    {images.length > 0 && !single && (
+    {!inline && images.length > 0 && !single && (
       <section class="mosaic" aria-label="作品影像">
         {rows.map((row, r) => (
           <div class={`m-row n${row.length}`} style={row.length === 1 && ratios[row[0]] < 1.2 ? `max-width: calc(82vh * ${ratios[row[0]].toFixed(3)})` : undefined}>
