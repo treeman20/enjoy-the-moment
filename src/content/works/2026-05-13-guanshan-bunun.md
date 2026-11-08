@@ -40,7 +40,7 @@ captions: |-
 
 【圖 1-5】
 
-<div class="video"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F1640556147%2Fvideos%2F979151531504565%2F&show_text=false&width=1280" title="AI 影片" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe></div>
+<video class="clip" src="/media/works/2026-05-13-guanshan-bunun/video-1.mp4" poster="/media/works/2026-05-13-guanshan-bunun/video-1.jpg" controls playsinline preload="metadata"></video>
 
 <video class="clip" src="/media/works/2026-05-13-guanshan-bunun/video-2.mp4" poster="/media/works/2026-05-13-guanshan-bunun/video-2.jpg" controls playsinline preload="metadata"></video>
 
