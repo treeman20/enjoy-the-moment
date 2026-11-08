@@ -6,7 +6,7 @@ summary: 影像生成技術不再是問題，該思考的是能做什麼內容�
 tools: GPT、Dreamina Seedance
 draft: false
 gallery:
-  - "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/687038850_10238414017162832_877582117329268706_n.jpg?stp=dst-jpg_tt6&cstp=mx1060x1484&ctp=s1060x1484&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=4cTqRzSryp8Q7kNvwG8bDRm&_nc_oc=AdoECrQPWcgexn3HsrEiFDrvkGzrO_sqp_I9eCvCthAVCLcYovldaSJ-8m7Gw-Tkz_M&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=wMfsQ8BrEQw5txLScK2qzQ&_nc_ss=792a8&oh=00_AQQ9ilEP-ghEjeVmF8Ipm2s18R-yJC89dh7mo5t2JmB_hA&oe=6AF65816"
+  - "/media/works/2026-05-02-clouded-leopard-poster/01.webp"
 ---
 感覺影像生成技術不是問題了，現在要認真思考，這 AI 技術可以做什麼內容！
 

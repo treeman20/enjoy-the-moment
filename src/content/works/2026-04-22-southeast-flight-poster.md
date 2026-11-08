@@ -6,13 +6,13 @@ summary: 給 GPT 一首歌、一張人物圖，三分鐘就有一張電影海報
 tools: Midjourney、ChatGPT、Dreamina
 draft: false
 gallery:
-  - "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/678394228_10238282147426171_8525029286269525193_n.jpg?stp=dst-jpg_tt6&cstp=mx1024x1536&ctp=s1024x1536&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=MAZw0QwXcBUQ7kNvwE6sLGW&_nc_oc=AdoDDqE0qryM9Y8Za_6LchZINiHjXmyRsUl3F4jN4Ib8fvt69g3_Uu6SXBFKoGE60F4&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=DApNDgTrG0834RStnZ-JIw&_nc_ss=792a8&oh=00_AQTrpu8xeznCuVGOEzCobUQBO9Sd-QmTyZIlIWUS9cdtXw&oe=6AF675D8"
-  - "https://scontent-tpe5-1.xx.fbcdn.net/v/t39.30808-6/675503554_10238282156346394_425862758255909774_n.jpg?stp=dst-jpg_tt6&cstp=mx928x1232&ctp=s928x1232&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=wtbF8vfbH4sQ7kNvwGnu55v&_nc_oc=AdpN_MMn_44XUCzyJsn4gDJWsX7i46EcPnV3O_br2K2EwmX_foLAPqC5ZENtvSpZ4RE&_nc_zt=23&_nc_ht=scontent-tpe5-1.xx&_nc_gid=MbXaAKKtFshrHn_68xHmNA&_nc_ss=7b2a8&oh=00_AQTR7T8VcES1LVan5n9RyNdP1H3PPL4VJ6EsSrWMCuGILQ&oe=6AF65AA0"
-  - "https://scontent-tpe5-1.xx.fbcdn.net/v/t39.30808-6/678740928_10238282191067262_7072034767942947170_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1157&ctp=s2048x1157&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=03m_sxnvXPAQ7kNvwFeL2Vi&_nc_oc=Ado6qIr2yr8Ss9B9FZED1H7rb1eFze3o93zOC3rOJLO2aXhNG7NjUX2vHafHH0vavBg&_nc_zt=23&_nc_ht=scontent-tpe5-1.xx&_nc_gid=EFvSOhWVzt570cbr8_xq7A&_nc_ss=7b2a8&oh=00_AQQv5EYpTvs_a9HTksNCZyONkvN1KrCc0SlqbuT9PL6k_A&oe=6AF654E0"
-  - "https://scontent-tpe5-1.xx.fbcdn.net/v/t39.30808-6/675608907_10238282194627351_282228621113745712_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1157&ctp=s2048x1157&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CoU2lCZ5Xp4Q7kNvwHxN2jd&_nc_oc=Adotk9felM1hAFwUhRLGpgp0kLopp2ikBbd_qXxBcg0lXkWqgZkEaeYrLT-lGqlRrYU&_nc_zt=23&_nc_ht=scontent-tpe5-1.xx&_nc_gid=hk0w82bXfwioiB6myEDKDA&_nc_ss=7b2a8&oh=00_AQSDy10C4ptO7YHerPWZcs7sbKbyOlV6_9KPyYzh895ygA&oe=6AF653BB"
-  - "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/675562696_10238282156786405_2256724229634620430_n.jpg?stp=dst-jpg_tt6&cstp=mx770x1556&ctp=s770x1556&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=he13dGZj-r8Q7kNvwFEy3M1&_nc_oc=AdqxxSixjUHxjplO5WgnfLw9FSIizxItWnQ6etGibMHmbjpbr9ORxrhPg3YQMfYN55w&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=SFuuBLo33Z4Z60qF8Y-fsg&_nc_ss=7b2a8&oh=00_AQRSh4DQpWGuFInwHAa9V8-7BHO_1g1a19L3tOuAcB5hgA&oe=6AF66D34"
-  - "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/678296420_10238282156826406_4549893818391007266_n.jpg?stp=dst-jpg_tt6&cstp=mx764x1546&ctp=s764x1546&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=YfiyxStvimUQ7kNvwGDTRla&_nc_oc=AdqJ9apAyiHtdNvaWR4EhjRieBNIoIo-BP5Q8Q4Q3HOEg_Vm6KNFnBL9kXNF9Gi4Nk4&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=3wUuOREacbqSwInm_jkJMA&_nc_ss=7b2a8&oh=00_AQQTp108ROlGUVdwC0jGvuB1m4SMKYSju0k0wLUMQo7b4Q&oe=6AF652DA"
-  - "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/677650971_10238282157146414_3147212326402007456_n.jpg?stp=dst-jpg_tt6&cstp=mx764x1554&ctp=s764x1554&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Fbxt_aWiygEQ7kNvwEaBaCv&_nc_oc=AdowdXL5zmmfbj1P-tVWkYiWBr6KRWVz4gmKjnWYINConbtbr7F8srrRZw7SJ-BhfKk&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=cA4laIJnPRprAJaTCXNFQg&_nc_ss=7b2a8&oh=00_AQSEG16iyk87yySpFDpNDwoPWbl-TvuX-5_de3vrbNyVZw&oe=6AF65F37"
+  - "/media/works/2026-04-22-southeast-flight-poster/01.webp"
+  - "/media/works/2026-04-22-southeast-flight-poster/02.webp"
+  - "/media/works/2026-04-22-southeast-flight-poster/03.webp"
+  - "/media/works/2026-04-22-southeast-flight-poster/04.webp"
+  - "/media/works/2026-04-22-southeast-flight-poster/05.webp"
+  - "/media/works/2026-04-22-southeast-flight-poster/06.webp"
+  - "/media/works/2026-04-22-southeast-flight-poster/07.webp"
 ---
 那個，現在的平面設計系老師要教什麼？
 

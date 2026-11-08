@@ -6,9 +6,9 @@ summary: 如果 AI 真的找到治療癌症的方法，你還會說「因為是 
 tools: GPT、Dreamina Seedance
 draft: false
 gallery:
-  - "https://scontent-tpe5-1.xx.fbcdn.net/v/t39.30808-6/705989019_10238721304804831_5979072440440365404_n.jpg?stp=dst-jpg_tt6&cstp=mx1672x941&ctp=s1672x941&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=fkB8Q_E2O64Q7kNvwF-NorO&_nc_oc=AdrtgaX5PK_J5mdOmU2Yv5hMEbRJ30i9Sn0BgTRicL5v75ElT-E4VoDa5AKU8jFyucg&_nc_zt=23&_nc_ht=scontent-tpe5-1.xx&_nc_gid=Ck59hdrfmEocMMvMGN3YpA&_nc_ss=792a8&oh=00_AQTqnz8J9WgfRwScwrwCCkVY0KuC33eKrE8zHRDAlk3YwA&oe=6AF678D9"
-  - "https://scontent-tpe5-1.xx.fbcdn.net/v/t39.30808-6/705627453_10238721316245117_5470738102709423193_n.jpg?stp=dst-jpg_tt6&cstp=mx1086x1448&ctp=s1086x1448&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=F3uQ0SCQbZoQ7kNvwGRg2Pp&_nc_oc=AdoxtPiIl1I4EEMcid88VLchFeEMZEaTWOXV0GSZUTwwIQ2l6T-fxV4wTRUgQi2z_7E&_nc_zt=23&_nc_ht=scontent-tpe5-1.xx&_nc_gid=VGB_FJfp-5IdSleQvdN4bA&_nc_ss=7b2a8&oh=00_AQTxv1TjfHAy8ZNmwnq8A0dBkKkYZ6Y95TsKGHCP0jaJbw&oe=6AF64D02"
-  - "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/707981424_10238721321165240_153625936165019564_n.jpg?stp=dst-jpg_tt6&cstp=mx1058x1486&ctp=s1058x1486&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=G6CcP7aj3boQ7kNvwEi1YLO&_nc_oc=Ado6p1Cbm7gFUbWRisGKln2_wH3lAYK4pCD89VFd0GyHIXTMNociyC6HaBtIlIelees&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=XV0c_FjaUwWzLNhs6KWTMw&_nc_ss=7b2a8&oh=00_AQT-pD69pxbjNmuLHlfJ_j6ZlLXGaT4gJ80Db_Q1OaQ42A&oe=6AF6613F"
+  - "/media/works/2026-05-26-ai-negative-labels/01.webp"
+  - "/media/works/2026-05-26-ai-negative-labels/02.webp"
+  - "/media/works/2026-05-26-ai-negative-labels/03.webp"
 ---
 前天去台北看新一代，和 Eason 聊到 AI。Eason 語重心長的說：
 

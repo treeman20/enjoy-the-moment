@@ -6,9 +6,9 @@ summary: 仰角、水平與鳥瞰，一面看結果一面修改 prompt，讓魯�
 tools: AI 影片生成
 draft: false
 gallery:
-  - "https://scontent.ftpe8-4.fna.fbcdn.net/v/t39.30808-6/708376715_10238747722585259_2332687057252297660_n.jpg?stp=dst-jpg_tt6&cstp=mx1672x941&ctp=s1672x941&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=76zMWdtovFkQ7kNvwGKz4AA&_nc_oc=AdqzzUcYj50f7PTajmORQfgRwYdKtvSDKcu2jon0bhikfKdJnXTFcAQLsRkbH75gKzM&_nc_zt=23&_nc_ht=scontent.ftpe8-4.fna&_nc_gid=kh4mNE0Yz29_YToLd9QmuA&_nc_ss=792a8&oh=00_AQSHD7xYBTLmrtDrWisSoF9bXHT4eZAqbFmQbJg4sQeSIA&oe=6AF66C88"
-  - "https://scontent.ftpe8-4.fna.fbcdn.net/v/t39.30808-6/708222258_10238747723345278_2758294614596095658_n.jpg?stp=dst-jpg_tt6&cstp=mx1672x941&ctp=s1672x941&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=GCHKTrYcNRoQ7kNvwFKEyoy&_nc_oc=AdpFoQg1hQ4xRk6YsYMZ_P6X2iNGdHeO-SNyKf1VqTR591ooP6EayXztn88dQVtip-w&_nc_zt=23&_nc_ht=scontent.ftpe8-4.fna&_nc_gid=Py9BJ5j-ECLZnBARgc4iJw&_nc_ss=7b2a8&oh=00_AQTDlATFow3cTRSZNNx29z8efJvX5tTCTlZrl0iwKpvfKw&oe=6AF6724B"
-  - "https://scontent.ftpe8-4.fna.fbcdn.net/v/t39.30808-6/709066791_10238747723625285_2286726110434117275_n.jpg?stp=dst-jpg_tt6&cstp=mx1672x941&ctp=s1672x941&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=2fTjB1ZKoGIQ7kNvwGWE48r&_nc_oc=Ado1P1RU7uIlSOleEftRnC7kehojJ2h3GHLRcL6yKCkXUP-IZT8_TJHuaGXgBjOYOr4&_nc_zt=23&_nc_ht=scontent.ftpe8-4.fna&_nc_gid=EfqVmR-as-INit1thr3NqQ&_nc_ss=7b2a8&oh=00_AQQa5qv0hKzA9AdSlEmHCgEr44nBKSzhq2VKNaAAMCTOAA&oe=6AF64753"
+  - "/media/works/2026-05-29-rukai-girl-clouded-leopard/01.webp"
+  - "/media/works/2026-05-29-rukai-girl-clouded-leopard/02.webp"
+  - "/media/works/2026-05-29-rukai-girl-clouded-leopard/03.webp"
 ---
 每一次就是 112 點，理想與不理想都扣點數！一面看結果一面修改描述詞 prompt……
 
