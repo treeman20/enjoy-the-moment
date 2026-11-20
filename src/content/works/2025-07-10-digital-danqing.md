@@ -94,6 +94,8 @@ gallery:
   - /media/works/2025-07-10-digital-danqing/85.webp
   - /media/works/2025-07-10-digital-danqing/86.webp
   - /media/works/2025-07-10-digital-danqing/87.webp
+  - /media/works/2025-07-10-digital-danqing/88.webp
+captions: "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIUM 女士的古代王孫圖（經作者同意刊登）"
 ---
 《數位丹青：AI 仕女圖像詠嘆》（Digital Danqing: A Lyrical Tribute to AI Beauties）是我整理的 AI 仕女圖像作品集，共一百頁、十四個系列。以下是作品集的內容。
 
@@ -108,6 +110,10 @@ gallery:
 「數位丹青」是我對 AI 圖像生成所提出的命名。它不是礦物顏料，也無需毛筆蘸墨，而是一種以演算法為筆、提示詞為墨的全新繪畫語言。正如古人調和丹青以顯色，我也在生成之間調和著我心中對色彩的感知與偏好。
 
 尤其是在看到韓國 AI 藝術家 IUM 女士所創作的古代王孫圖時，那幅作品優雅且溫潤的色調深深打動了我。自此，我將其作為啟發，透過 Midjourney 的 sref 技術，將這組色彩運用於自己的創作之中，彷彿建立起一套屬於我個人的「影像顏料」系統。這是一種數位時代的調色方式，也是一種風格的延續與辨識。
+
+【圖 88】
+
+IUM 是韓國的全職 AI 藝術家，她的作品集在 [ium.red](https://ium.red)。
 
 因此，這一系列作品便是一場屬於 AI 世代的仕女詠嘆：她們源自數位，卻蘊含古典的氣質；她們從未存在，卻足以喚起我們對傳統之美的遙想。透過她們的眼神、姿態與衣飾，我希望讓觀者看見一種新的古典美學實踐方式——讓人工智慧不只是工具，而成為我創作中的共筆者。
 
