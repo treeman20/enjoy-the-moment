@@ -233,3 +233,6 @@ img { max-width: 100%; display: block; }
 
 /* 網站自有影片 */
 .prose video.clip { display: block; width: 100%; max-height: 80vh; margin: 2em auto; background: #000; border-radius: 2px; }
+
+/* 圖片出處小註 */
+.prose p.note { font-family: var(--sans); font-size: 13px; color: var(--muted); line-height: 1.6; margin: 1.2em 0 -0.6em; }
