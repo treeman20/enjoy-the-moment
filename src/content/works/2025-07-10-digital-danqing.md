@@ -209,7 +209,7 @@ Thus, this series has become an ode to the feminine image in the age of AI. Thes
 
 受到席慕蓉詩〈一棵開花的樹〉感動，描繪一位女孩在滿樹辛夷花下，對逝去感情的緬懷與祝福。柔情中帶有深遠的憐憫。
 
-*Moved by Xi Murong’s poem “A Blossoming Tree,” this piece depicts a girl beneath a magnolia tree, mourning a love that cannot continue, offering silent compassion and blessing.*
+*Moved by Xi Murong’s poem “A Tree in Bloom,” this piece depicts a girl beneath a magnolia tree, mourning a love that cannot continue, offering silent compassion and blessing.*
 
 【圖 19-23】
 
