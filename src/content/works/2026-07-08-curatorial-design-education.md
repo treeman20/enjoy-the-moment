@@ -3,11 +3,11 @@ title: AI 時代商業設計教育的位階提升：從品牌設計走向策展�
 date: 2026-07-08
 category: 靈光浮塵
 summary: 整理《一山與一海》時的體會：AI 解放了大量技術與研究工時，商業設計教育的提升不在於做得更快，而是讓學生從製作者走向策展者。
-cover: "https://north-glazer-864.notion.site/image/attachment%3A15c5633f-e52a-4da2-aac6-12156df7fda6%3A93ca2ff5-24da-4576-b12f-cfccb9a5a747.png?table=block&id=39745b43-cda2-8056-bb04-ea9b13a42f60&spaceId=21101ec4-e3f6-4539-9e0c-3912c3f7b69b&width=2000&userId=&cache=v2"
+cover: "/media/works/2026-07-08-curatorial-design-education/01.webp"
 tools: NotebookLM、ChatGPT
 draft: false
 gallery:
-  - "https://north-glazer-864.notion.site/image/attachment%3A15c5633f-e52a-4da2-aac6-12156df7fda6%3A93ca2ff5-24da-4576-b12f-cfccb9a5a747.png?table=block&id=39745b43-cda2-8056-bb04-ea9b13a42f60&spaceId=21101ec4-e3f6-4539-9e0c-3912c3f7b69b&width=2000&userId=&cache=v2"
+  - "/media/works/2026-07-08-curatorial-design-education/01.webp"
 ---
 *國立臺中科技大學商業設計系副教授　趙樹人*
 
